@@ -1,0 +1,111 @@
+{
+    "Zombie_damage_multiplier": 10.0,
+    "Animal_damage_multiplier": 10.0,
+    "Items": [
+        {
+            "ItemName": "WoodAxe",
+            "DamageToPlayer": 12.0,
+            "DamageToItem": 5.0
+        },
+        {
+            "ItemName": "Hatchet",
+            "DamageToPlayer": 8.0,
+            "DamageToItem": 5.0
+        },
+        {
+            "ItemName": "FirefighterAxe",
+            "DamageToPlayer": 16.0,
+            "DamageToItem": 5.0
+        },
+        {
+            "ItemName": "FirefighterAxe_Black",
+            "DamageToPlayer": 16.0,
+            "DamageToItem": 5.0
+        },
+        {
+            "ItemName": "FirefighterAxe_Green",
+            "DamageToPlayer": 16.0,
+            "DamageToItem": 5.0
+        },
+        {
+            "ItemName": "Cleaver",
+            "DamageToPlayer": 8.0,
+            "DamageToItem": 5.0
+        },
+        {
+            "ItemName": "CombatKnife",
+            "DamageToPlayer": 6.0,
+            "DamageToItem": 5.0
+        },
+        {
+            "ItemName": "HuntingKnife",
+            "DamageToPlayer": 6.0,
+            "DamageToItem": 3.0
+        },
+        {
+            "ItemName": "Machete",
+            "DamageToPlayer": 7.0,
+            "DamageToItem": 5.0
+        },
+        {
+            "ItemName": "Pitchfork",
+            "DamageToPlayer": 20.0,
+            "DamageToItem": 10.0
+        },
+        {
+            "ItemName": "Pickaxe",
+            "DamageToPlayer": 8.0,
+            "DamageToItem": 10.0
+        },
+        {
+            "ItemName": "Sword",
+            "DamageToPlayer": 20.0,
+            "DamageToItem": 10.0
+        },
+        {
+            "ItemName": "KukriKnife",
+            "DamageToPlayer": 8.0,
+            "DamageToItem": 3.0
+        },
+        {
+            "ItemName": "FangeKnife",
+            "DamageToPlayer": 8.0,
+            "DamageToItem": 3.0
+        },
+        {
+            "ItemName": "CrudeMachete",
+            "DamageToPlayer": 8.0,
+            "DamageToItem": 4.0
+        },
+        {
+            "ItemName": "OrientalMachete",
+            "DamageToPlayer": 7.0,
+            "DamageToItem": 6.0
+        },
+        {
+            "ItemName": "Chainsaw",
+            "DamageToPlayer": 4.0,
+            "DamageToItem": 2.0
+        },
+        {
+            "ItemName": "BaseballBat",
+            "DamageToPlayer": 2.0,
+            "DamageToItem": 10.0
+        },
+        {
+            "ItemName": "NailedBaseballBat",
+            "DamageToPlayer": 4.0,
+            "DamageToItem": 10.0
+        },
+        {
+            "ItemName": "BarbedBaseballBat",
+            "DamageToPlayer": 6.0,
+            "DamageToItem": 10.0
+        },
+        {
+            "ItemName": "PipeWrench",
+            "DamageToPlayer": 2.0,
+            "DamageToItem": 10.0
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "ConfigVersion": "1.25",
+    "Vehicles_You_Want_To_Use_Diesel": [
+        "CrSk_Land_Rover_Defender_110",
+        "CrSk_Land_Rover_Defender_110_UN",
+        "Motoblok",
+        "Kamaz",
+        "KamazCovered",
+        "TR142",
+        "TR142_Yellow",
+        "RFWC_Whaler",
+        "RFFSHeli_UH1H",
+        "RFFSHeli_UH1H_Combat",
+        "RFFSHeli_Blackhawk_Cargo",
+        "RFFSHeli_Ka26",
+        "RFFSHeli_LittleBird",
+        "RFFSHeli_LittleBird_Camo",
+        "RFFSHeli_Mi2",
+        "RFFSHeli_Mi2_Military",
+        "RFFSHeli_R22",
+        "RFFSHeli_R22_Red",
+        "RFFSHeli_R22_Black"
+    ],
+    "Allow_Getting_Diesel_From_Fuel_Pumps": 0,
+    "Allow_Diesel_To_Be_Added_To_End_Of_Diesel_Vehicles_Display_Names": 1,
+    "TF_FuelPump_Diesel_Settings": "----------Below this is only relevant if you have TF-FuelPump Installed------------",
+    "Diesel_MaxAmount": 10000.0,
+    "Diesel_InitAmount": 5000.0,
+    "Diesel_EnergyConsumptionCoef": 1.2,
+    "Diesel_AdminRefuelAmount": 2000.0,
+    "HypeTrain_DieselVehicles_Settings": "----------Below this is only relevant if you have HypeTrain Installed------------",
+    "Allow_Getting_Diesel_From_HypeTrains_Default_Fuel_Source": 0,
+    "DieselFuelTankSpawnerDescription": "----------Below this is used to spawn fuel tanks with quantity------------",
+    "EnableSpawningFuelTanks": 1,
+    "DieselFuelTankSpawnerList": [
+        {
+            "FuelTankClassname": "Wilmas_DieselFuelTank",
+            "Position": [
+                4345.32,
+                4.11974,
+                4774.58
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "FuelQuantityInLitres_5000Max": 5000
+        },
+        {
+            "FuelTankClassname": "Wilmas_DieselFuelTank",
+            "Position": [
+                3424.28,
+                216.06,
+                6690.81
+            ],
+            "Orientation": [
+                -63.0255,
+                0.0,
+                0.0
+            ],
+            "FuelQuantityInLitres_5000Max": 5000
+        },
+        {
+            "FuelTankClassname": "Wilmas_DieselFuelTank",
+            "Position": [
+                6145.61,
+                7.77776,
+                5714.22
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "FuelQuantityInLitres_5000Max": 5000
+        },
+        {
+            "FuelTankClassname": "Wilmas_DieselFuelTank",
+            "Position": [
+                7939.33,
+                9.61116,
+                7689.07
+            ],
+            "Orientation": [
+                90,
+                0.0,
+                0.0
+            ],
+            "FuelQuantityInLitres_5000Max": 5000
+        },
+        {
+            "FuelTankClassname": "Wilmas_DieselFuelTank",
+            "Position": [
+                6328.49,
+                20.843,
+                9428.06
+            ],
+            "Orientation": [
+                90,
+                0.0,
+                0.0
+            ],
+            "FuelQuantityInLitres_5000Max": 5000
+        }
+    ]
+}

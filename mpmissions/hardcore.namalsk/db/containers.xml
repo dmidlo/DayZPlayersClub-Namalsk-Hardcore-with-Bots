@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<types>
+    <!-- Containers -->
+  <type name="MediumTent">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
+  <type name="MediumTent_Orange">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
+  <type name="MediumTent_Green">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
+  <type name="CarTent">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
+  <type name="LargeTent">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
+  <type name="Barrel_Green">
+    <nominal>2</nominal>
+    <min>2</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="industrial" />
+  </type>  
+  <type name="Barrel_Blue">
+    <nominal>3</nominal>
+    <min>1</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="industrial" />
+  </type>
+  <type name="Barrel_Red">
+    <nominal>3</nominal>
+    <min>1</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="industrial" />
+  </type>
+  <type name="Barrel_Yellow">
+    <nominal>3</nominal>
+    <min>1</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="industrial" />
+  </type>
+  <type name="SeaChest">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>604800</lifetime>
+    <restock>10800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
+  <type name="FirstAidKit">
+    <nominal>15</nominal>
+    <min>12</min>
+    <lifetime>604800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+    <tag name="medical" />
+  </type>
+  <type name="SmallProtectorCase">
+    <nominal>20</nominal>
+    <min>15</min>
+    <lifetime>604800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="civilian" />
+  </type>
+  <type name="AmmoBox">
+    <nominal>8</nominal>
+    <min>6</min>
+    <lifetime>604800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="military" />
+  </type>
+  <type name="WaterproofBag_Yellow">
+    <nominal>7</nominal>
+    <min>4</min>
+    <lifetime>604800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="fishing" />
+    <tag name="industrial" />
+  </type>
+  <type name="WaterproofBag_Green">
+    <nominal>5</nominal>
+    <min>2</min>
+    <lifetime>604800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="fishing" />
+    <tag name="military" />
+  </type>
+  <type name="WaterproofBag_Orange">
+    <nominal>7</nominal>
+    <min>4</min>
+    <lifetime>604800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="fishing" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Large_1">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Large_2">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Large_3">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Large_4">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Medium_1">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Medium_2">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Medium_3">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Medium_4">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Small_1">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Small_2">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Small_3">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="GiftBox_Small_4">
+    <nominal>0</nominal>
+    <min>0</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="containers" />
+    <tag name="seasonalevent" />
+    <tag name="civilian" />
+  </type>
+  <type name="WoodenCrate">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    <category name="containers"/>
+  </type>
+  <type name="SeaChest">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    <category name="containers"/>
+  </type>
+  <!-- Dry Sacks -->
+  <type name="DrysackBag_Green">
+    <lifetime>2700</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="DrysackBag_Orange">
+    <lifetime>2700</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="DrysackBag_Yellow">
+    <lifetime>2700</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="MagLoaderBox">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+    <category name="containers"/>
+    <usage name="Military"/>
+    </type>
+    
+    <type name="MagLoaderBox2">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+    <category name="containers"/>
+    <usage name="Military"/>
+    </type>
+    
+    <type name="MagLoaderBox3">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+    <category name="containers"/>
+    <usage name="Military"/>
+    </type>
+    
+</types>

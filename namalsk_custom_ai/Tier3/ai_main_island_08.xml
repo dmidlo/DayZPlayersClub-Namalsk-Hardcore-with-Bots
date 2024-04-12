@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="SurvivorM_Boris">
+		<pos x="4638.23" y="39.4134" z="5168.64" a="0"/>
+	</event>
+	<event name="SurvivorM_Mirek">
+		<pos x="4581.53" y="29.1634" z="5045.89" a="0"/>
+		<pos x="4581.71" y="29.1709" z="5041.53" a="0"/>
+		<pos x="4744.36" y="29.5026" z="5239.88" a="0"/>
+		<pos x="4744.56" y="27.741" z="5235.54" a="0.00484074"/>
+		<pos x="4819.48" y="26.027" z="5432.79" a="0"/>
+	</event>
+</events>

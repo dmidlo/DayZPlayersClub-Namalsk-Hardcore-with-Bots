@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<types>
+    <type name="CanisterGasoline">
+        <nominal>9</nominal>
+        <min>7</min>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+      </type>
+      <type name="Wilmas_DieselVehiclesCanister"> <!-- An Identical Version Of The CanisterGasoline Except It Spawns With Diesel -->
+        <nominal>7</nominal>
+        <lifetime>5400</lifetime>
+        <restock>900</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools" />
+        <tag name="military" />
+        <tag name="industrial" />
+      </type>
+      <type name="SparkPlug">
+        <nominal>19</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>8</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>    
+      </type>
+      <type name="GlowPlug">
+        <nominal>11</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="industrial"/>
+      </type>
+      <type name="CarRadiator">
+        <nominal>13</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+      </type>
+      <type name="CarBattery">
+        <nominal>13</nominal>
+        <lifetime>5400</lifetime>
+        <restock>360</restock>
+        <min>8</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+      </type>
+      <type name="TruckBattery">
+        <nominal>13</nominal>
+        <lifetime>5400</lifetime>
+        <restock>360</restock>
+        <min>6</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+      </type>
+      <type name="HeadlightH7">
+        <nominal>0</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+    </type>
+    <type name="HeadlightH7_Box">
+        <nominal>13</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+    </type>
+  <type name="CBD_ScifiGeneratorKit_Rust">
+    <nominal>1</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <value user="Tier7" />
+  </type>
+  <type name="CBD_SciFi_Powercell">
+    <nominal>1</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <value user="Tier67" />
+  </type>
+    <type name="CBD_SciFi_Powercore_camo">
+      <nominal>1</nominal>
+      <lifetime>10800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <value user="Tier67" />
+  </type>
+  <type name="CBD_SciFi_Generator_Rust">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="CBD_Scifi_Lamp_Rust">
+    <nominal>1</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <value user="Tier67" />
+  </type>
+  <type name="CBD_Scifi_Socket_Rust">
+    <nominal>1</nominal>
+      <lifetime>10800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <value user="Tier67" />
+  </type>
+  <type name="EngineOil">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+</type>
+</types>

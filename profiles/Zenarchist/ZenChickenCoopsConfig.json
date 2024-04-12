@@ -1,0 +1,39 @@
+{
+    "ConfigVersion": "1",
+    "LogsOn": 0,
+    "DebugOn": 0,
+    "DumpObjectLocations": 0,
+    "SpawnChickenCoops": 1,
+    "NoFeathersLeftMessage": "It seems there are no feathers left...",
+    "CoopTypes": [
+        {
+            "TypeName": "Land_Misc_FeedShack",
+            "ObjectName": "Zen_ChickenCoop",
+            "MinFeathers": 0,
+            "MaxFeathers": 400,
+            "MaxFeathersPerCollect": 3,
+            "ChanceOfBleed": 0.05000000074505806,
+            "DamageGloves": 5.0,
+            "Offset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Orient": [
+                90.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "CoopPositions": [
+        {
+            "TypeName": "_chickencoop",
+            "Locations": []
+        },
+        {
+            "TypeName": "_hutch",
+            "Locations": []
+        }
+    ]
+}

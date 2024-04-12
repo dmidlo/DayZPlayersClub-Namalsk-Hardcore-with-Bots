@@ -1,0 +1,165 @@
+{
+    "ConfigVersion": "1",
+    "HackableEntitys": [
+        {
+            "Type": "BaseBuilding_WoodSingleDoor",
+            "HackingTime": 30.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_MetalSingleDoor",
+            "HackingTime": 60.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_VaultSingleDoor",
+            "HackingTime": 120.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 100.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_WoodDoubleDoor",
+            "HackingTime": 30.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_MetalDoubleDoor",
+            "HackingTime": 60.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_VaultDoubleDoor",
+            "HackingTime": 120.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 100.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_WoodGarageDoor",
+            "HackingTime": 30.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_MetalGarageDoor",
+            "HackingTime": 60.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_WoodHatchLadder",
+            "HackingTime": 30.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_MetalHatchLadder",
+            "HackingTime": 60.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_ConcreteHatchLadder",
+            "HackingTime": 120.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 100.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_WoodCompoundGate",
+            "HackingTime": 30.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_MetalCompoundGate",
+            "HackingTime": 60.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "BaseBuilding_ConcreteCompoundGate",
+            "HackingTime": 120.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 100.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "A6_MilitaryStorageCrate",
+            "HackingTime": 15.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "A6_MilitaryLocker",
+            "HackingTime": 30.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "A6_Rifle_Safe",
+            "HackingTime": 45.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "A6_Safe_Big",
+            "HackingTime": 60.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 50.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "A6_Vault",
+            "HackingTime": 120.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 100.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 0
+        },
+        {
+            "Type": "UndergroundHatch",
+            "HackingTime": 120.0,
+            "TabletDamage": 20.0,
+            "BatteryDamage": 100.0,
+            "TabletRange": 15.0,
+            "DestroyCodeLock": 1
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Name": "",
+    "Faction": "Raiders",
+    "Formation": "Vee",
+    "FormationLooseness": 0.10000000149011612,
+    "LoadoutFile": "BanditLoadout",
+    "Units": [],
+    "NumberOfAI": 3,
+    "Behaviour": "ALTERNATE",
+    "Speed": "JOG",
+    "UnderThreatSpeed": "SPRINT",
+    "CanBeLooted": 1,
+    "UnlimitedReload": 0,
+    "SniperProneDistanceThreshold": 0.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": -1.0,
+    "NoiseInvestigationDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "DamageReceivedMultiplier": -1.0,
+    "MinDistRadius": -1.0,
+    "MaxDistRadius": -1.0,
+    "DespawnRadius": -1.0,
+    "MinSpreadRadius": 0.0,
+    "MaxSpreadRadius": 0.0,
+    "Chance": 1.0,
+    "WaypointInterpolation": "",
+    "DespawnTime": -1.0,
+    "RespawnTime": -2.0,
+    "UseRandomWaypointAsStartPoint": 1,
+    "Waypoints": [
+        [
+            4556.09326171875,
+            14.632905006408692,
+            11039.62890625
+        ],
+        [
+            4548.43505859375,
+            14.622504234313965,
+            11035.7900390625
+        ],
+        [
+            4548.4482421875,
+            14.622483253479004,
+            11035.763671875
+        ]
+    ]
+}

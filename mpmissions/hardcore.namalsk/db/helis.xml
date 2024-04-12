@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+<type name="RFFSHeli_UH1H">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_UH1H_DriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_UH1H_CodriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_UH1H_Cargo1">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_UH1H_Cargo2">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_UH1H_Cargo1a">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_UH1H_Cargo2a">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_UH1H_Combat">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_UH1H_Combat_DriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_UH1H_Combat_CodriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Blackhawk_Cargo">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_Blackhawk_DriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Blackhawk_CodriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Blackhawk_Cargo1">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Blackhawk_Cargo1a">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Blackhawk_Cargo2">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Blackhawk_Cargo2a">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Blackhawk_Cargo3">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Blackhawk_Cargo4">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Ka26">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_Ka26_DriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Ka26_CodriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Ka26_Cargo1">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Ka26_Cargo2">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_LittleBird">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_LittleBird_Camo">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_Mi2">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_Mi2_DriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Mi2_CodriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Mi2_Cargo1">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Mi2_Military">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_Mi2_DriverDoor_Military">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Mi2_CodriverDoor_Military">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_Mi2_Cargo1_Military">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_R22">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_R22_DriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_R22_CodriverDoor">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_R22_Red">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_R22_DriverDoor_Red">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_R22_CodriverDoor_Red">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_R22_Black">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="RFFSHeli_R22_DriverDoor_Black">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_R22_CodriverDoor_Black">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="civilian"/>
+    <tag name="industrial" />
+</type>
+<type name="RFFSHeli_PilotHelmet">
+    <nominal>2</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <tag name="military"/>
+    <value user="Tier3458"/>
+
+</type>
+<type name="RFFSHeli_PilotHelmet_Black">
+    <nominal>2</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <tag name="military"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_PilotGloves">
+    <nominal>2</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <tag name="military"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_PilotShirt">
+    <nominal>2</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <tag name="military"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_PilotPants">
+    <nominal>2</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <tag name="military"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_PilotVest">
+    <nominal>2</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <tag name="military"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_hydraulic_fluid">
+    <nominal>4</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="industrial"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_hydraulic_hoses">
+    <nominal>4</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="industrial"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_wiring_harness">
+    <nominal>4</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="industrial"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_igniter_plug">
+    <nominal>4</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="industrial"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_aviation_battery">
+    <nominal>4</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="industrial"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_avionics_unit">
+    <nominal>4</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="industrial"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_aviation_toolbox">
+    <nominal>4</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="industrial"/>
+    <value user="Tier3458"/>
+</type>
+<type name="RFFSHeli_batterycharger">
+    <nominal>4</nominal>
+    <lifetime>2700</lifetime>
+    <restock>100</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="industrial"/>
+    <value user="Tier3458"/>
+</type>
+</types>

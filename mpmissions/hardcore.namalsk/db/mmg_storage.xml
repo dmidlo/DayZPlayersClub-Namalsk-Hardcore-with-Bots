@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+      <type name="mmg_equipment_locker_grey_kit">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial"/>
+        <tag name="military"/>
+      </type>
+      <type name="mmg_equipment_locker_grey">
+        <lifetime>864000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+      <type name="mmg_locker02_blue_kit">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="military"/>    
+      </type>
+      <type name="mmg_locker02_blue">
+        <lifetime>864000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+      <type name="mmg_locker02_tan_kit">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="military"/>
+      </type>
+      <type name="mmg_locker02_tan">
+        <lifetime>864000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+      <type name="mmg_lockable_gun_rack_kit_grey">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="military"/>
+      </type>
+      <type name="mmg_lockable_gun_rack_grey">
+        <lifetime>864000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+      <type name="mmg_fridge_kit_blue">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+        <tag name="farm"/>
+      </type>
+        <type name="mmg_fridge_minsk_blue">
+          <lifetime>864000</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+      <type name="mmg_solo_locker_blue_kit">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+        <tag name="farm"/>
+      </type>
+      <type name="mmg_solo_locker_blue">
+          <lifetime>864000</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+      <type name="mmg_supply_crate_wood">
+        <nominal>0</nominal>
+        <lifetime>864000</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+        <tag name="farm"/>
+      </type>
+      <type name="mmg_supply_crate_grey">
+        <nominal>0</nominal>
+        <lifetime>864000</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+        <tag name="farm"/>
+      </type>
+      <type name="mmg_supply_crate_unfinished_wood">
+        <nominal>0</nominal>
+        <lifetime>864000</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+        <tag name="farm"/>
+      </type>
+      <type name="mmg_supply_crate_unfinished_grey">
+        <nominal>0</nominal>
+        <lifetime>864000</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+        <tag name="farm"/>
+      </type>
+      <type name="mmg_army_box_medic_grey">
+        <nominal>2</nominal>
+        <lifetime>864000</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="military"/>
+      </type>
+      <type name="mmg_military_case_green">
+        <nominal>2</nominal>
+        <lifetime>864000</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="military"/>
+      </type>
+      <type name="mmg_palette_storage">
+        <nominal>2</nominal>
+        <lifetime>864000</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="military"/>
+      </type>
+      <type name="QDLY_ElectricOven">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+    </type>
+	  <type name="QDLY_OvenTray">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+    </type>
+    //////////////////////////////////////////////
+    //////////			 Kits			//////////
+    //////////////////////////////////////////////
+    
+    <type name="M_Kit_Gun_Rack"> 
+          <lifetime>7200</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M_Kit_Gun_Wall"> 
+          <lifetime>7200</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M_Kit_Shelf"> 
+          <nominal>2</nominal>
+          <lifetime>7200</lifetime>
+          <restock>0</restock>
+          <min>0</min>
+          <quantmin>-1</quantmin>
+          <quantmax>-1</quantmax>
+          <cost>100</cost>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+          <category name="tools"/>
+          <tag name="industrial"/>
+          <tag name="civilian"/>
+    </type>
+    <type name="M_Kit_WorkBenchTable">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+    </type>
+    <type name="M_Kit_Medical_Bag">
+          <lifetime>7200</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M_Kit_Fridge">
+          <lifetime>7200</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M_Kit_Gas_Stove">
+          <lifetime>7200</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M_Kit_Gun_Cabinet">
+          <lifetime>7200</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M_Kit_Gun_Rack_Tan">
+          <lifetime>7200</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M_Kit_Gun_Rack_Green">
+          <lifetime>7200</lifetime>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+  
+    
+    //////////////////////////////////////////////
+    //////////		Itens dos Kits		//////////
+    //////////////////////////////////////////////
+    <type name="M_Gun_Rack">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    <type name="M_Gun_Wall">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    <type name="M_Shelf">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    <type name="M_WorkBenchTable">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    <type name="M_Medical_Bag">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    <type name="M_Fridge">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    <type name="M_Gas_Stove">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    <type name="M_Gun_Cabinet">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    <type name="M_Gun_Rack_Tan">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    <type name="M_Gun_Rack_Green">
+      <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      </type>
+    
+    
+    
+    //////////////////////////////////////////////
+    //////////			Itens 			//////////
+    //////////////////////////////////////////////
+    <type name="M_WorkBench_ToolBox">
+          <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+      </type>
+    <type name="M_WorkBench_BluePrint">
+          <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+      </type>
+    <type name="M_Big_Gas_Canister">
+          <lifetime>14400</lifetime>
+          <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+      </type>
+    <type name="M_WorkBench_Hammer">
+          <lifetime>14400</lifetime>
+          <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+      </type>
+    
+      <type name="KT_rusty_Stove">
+        <nominal>2</nominal>
+        <lifetime>1944000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="KT_metal_Stove">
+      <nominal>2</nominal>
+      <lifetime>1944000</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+      <category name="tools"/>
+      <tag name="industrial"/>
+      <tag name="civilian"/>
+    </type>
+	<type name="KT_old_Stove">
+    <nominal>2</nominal>
+    <lifetime>1944000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    <category name="tools"/>
+    <tag name="industrial"/>
+    <tag name="civilian"/>
+    </type>
+      <type name="CTG_Vintage_Washer_Electric">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      </type>
+      <type name="CTG_Vintage_Dryer_Electric">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      </type>
+      <type name="CTG_Electric_Washer_Kit">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+      </type>
+      <type name="CTG_Electric_Dryer_Kit">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+        <tag name="industrial"/>
+        <tag name="civilian"/>
+      </type>
+</types>

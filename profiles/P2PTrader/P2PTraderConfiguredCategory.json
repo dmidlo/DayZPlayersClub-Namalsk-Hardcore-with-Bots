@@ -1,0 +1,25 @@
+{
+    "categoryNames": [
+        "#rifles",
+        "#pistols",
+        "#weapons",
+        "#explosives",
+        "#tools",
+        "#lore",
+        "#food",
+        "#containers",
+        "#clothes",
+        "#bags",
+        "#lantia",
+        "#military",
+        "#civilian",
+        "#hunting",
+        "#police",
+        "#industrial",
+        "#farm",
+        "#medical",
+        "#firefighter",
+        "#fishing",
+        "#seaice"
+    ]
+}

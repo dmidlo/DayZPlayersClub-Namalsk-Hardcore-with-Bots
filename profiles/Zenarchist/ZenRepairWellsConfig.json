@@ -1,0 +1,90 @@
+{
+    "ConfigVersion": "1",
+    "MessageNotDrink": "This well doesn't seem to work anymore! I need to repair it with a wrench, or find a natural water source...",
+    "MessageRepaired": "It seems this well has already been repaired...",
+    "DisableWellsByDefault": 1,
+    "DamageTool": 50,
+    "TimeToBreak": 86400,
+    "RepairableWells": [
+        {
+            "Location": [
+                6824.794921875,
+                15.612545013427735,
+                11226.3818359375
+            ],
+            "Invincible": 0,
+            "Repaired": 0,
+            "BreakTime": 0
+        },
+        {
+            "Location": [
+                6203.083984375,
+                7.702119827270508,
+                9888.3212890625
+            ],
+            "Invincible": 0,
+            "Repaired": 0,
+            "BreakTime": 0
+        },
+        {
+            "Location": [
+                3979.14697265625,
+                53.72623062133789,
+                7632.0087890625
+            ],
+            "Invincible": 0,
+            "Repaired": 0,
+            "BreakTime": 0
+        },
+        {
+            "Location": [
+                7133.578125,
+                21.817140579223634,
+                10850.1259765625
+            ],
+            "Invincible": 0,
+            "Repaired": 0,
+            "BreakTime": 0
+        },
+        {
+            "Location": [
+                4529.30517578125,
+                15.671466827392579,
+                10952.6005859375
+            ],
+            "Invincible": 0,
+            "Repaired": 0,
+            "BreakTime": 0
+        },
+        {
+            "Location": [
+                9017.869140625,
+                9.750125885009766,
+                10105.8369140625
+            ],
+            "Invincible": 0,
+            "Repaired": 0,
+            "BreakTime": 0
+        },
+        {
+            "Location": [
+                8282.6220703125,
+                15.048328399658204,
+                10782.251953125
+            ],
+            "Invincible": 0,
+            "Repaired": 0,
+            "BreakTime": 0
+        },
+        {
+            "Location": [
+                5791.91845703125,
+                18.632404327392579,
+                10733.51953125
+            ],
+            "Invincible": 0,
+            "Repaired": 0,
+            "BreakTime": 0
+        }
+    ]
+}

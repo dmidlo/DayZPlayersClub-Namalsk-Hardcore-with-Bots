@@ -1,0 +1,58 @@
+{
+    "maxMarketOffersPerPlayer": 99,
+    "maxBidsPerPlayer": 3,
+    "maxDistanceToTrader": 0.75,
+    "traderCanOpenFromEveryware": 0,
+    "playerCanTradeFromEveryware": 0,
+    "exceededTimeCheckInterval": 1,
+    "isEnabledExceededCheck": 0,
+    "spawnExceededToGround": 0,
+    "offerWillExpireAfterDays": 180,
+    "spawnPositionExceededOffers": [
+        [
+            4702.87,
+            23.5524,
+            8920.39
+        ]
+    ],
+    "traderPositions": [
+        {
+            "position": [
+                4702.85,
+                23.5524,
+                8920.45
+            ],
+            "orientation": [
+                270.0,
+                0.0,
+                0.0
+            ],
+            "gameObjectType": "bldr_sign_food"
+        },
+        {
+            "position": [
+                6132.06,
+                35.5122,
+                10789.1
+            ],
+            "orientation": [
+                228.0,
+                0.0,
+                0.0
+            ],
+            "gameObjectType": "bldr_sign_food"
+        }
+    ],
+    "useItemsConfigForPlayerInventory": 0,
+    "defaultKey": 48,
+    "useServerKeyBind": 1,
+    "enabledOfferTypes": [
+        "instant_buy",
+        "auction"
+    ],
+    "adminIds": [
+        "Enter your GUID"
+    ],
+    "enableOrigenItemsNameInView": 1,
+    "configVersion": "7"
+}

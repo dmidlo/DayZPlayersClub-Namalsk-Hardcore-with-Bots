@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+    <type name="Spur_Kart_Wheel">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_Wheel_Dirt">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_Wheel_Destroyed">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_WheelRear">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_WheelRear_Dirt">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_WheelRear_Destroyed">
+        <nominal>0</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_TrolleyKart">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Spur_WonkyTrolley">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_Seat">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_FuelTank">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Spur_Kart_Engine">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Spur_Kart_Sign1">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_Sign2">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_Sign3">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_Sign4">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_Kart_Sign_Tagged">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="Spur_TrolleyKart_Admin">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Spur_TrolleyKart_Black">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Spur_Trolley_E_Kart">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Spur_Trolley_E_Kart_Black">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Spur_Trolley_E_Kart_Admin">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9000</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Spur_EKart_Motor">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <value user="Tier1234" />
+        <tag name="military" />
+        <tag name="industrial" />
+    </type>
+    <type name="WaterproofBag_Black">
+        <nominal>15</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="fishing" />
+        <tag name="industrial" />
+        <tag name="military" />
+    </type>
+</types>

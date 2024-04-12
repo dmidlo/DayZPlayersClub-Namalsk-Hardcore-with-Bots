@@ -1,0 +1,162 @@
+## New Behaviors:
+- Can rummage through garbage with left-mouse.
+     - Notable things to rummage for:
+         - Tool Forging Supplies
+         - Base Building Supplies
+         - Basic Survival Tools
+         - The Lard you get is good to eat.
+         - Shopping Cart and Advanced Dirt Wheels
+     - Best way to avoid getting sick is with a dust or medical mask, maybe bandanas... but most other fabrics, even if they cover your face are too porous to keep you safe.  
+- Can flip turn't vehicles using a crescent wrench
+- Gauss Rifle Spawns in Lantia
+- Many Cars Accept a Camo Net to hide car
+    - Vehicles That Do:
+        - CrSk_Land_Rover_Defender_110
+        - CrSk_Land_Rover_Defender_110_UN
+        - Techs ATV OliveDrab
+        - LAMV
+        - Blue LAMV
+        - Glowler ITV
+        - Covered Kamaz
+        - Trolley Cart
+        - Trolley E Cart
+    - Vehicles that doen't:
+        - Raft
+        - Motoblok (Yellow)
+        - Motoblok No-tool-slots (green)
+- Sometimes deadly bombers fly overhead.  Take cover, or run away!  You might also sometimes catch a cargo takeoff at the airfield.
+- Car batteries and spark plugs can be repaired with an electrical repair kit
+- blowtorch can repair a radiator
+- These partial items may be combined to save space:
+    - Bandages
+    - Epoxy Putty
+    - Sewing Kits
+    - Electric Repair Kits
+    - Gun Cleaning Kits
+    - Tire Repair Kits
+    - Duct Tape
+    - Sharpening Stones
+    - Garden Lime
+- Firewood can be stacked 6x
+- Bloodsuckers as seen in some of the original footage: https://www.youtube.com/watch?v=0pYF3J6QHDw
+- Baby deer and bears
+
+## New Items:
+- Flippers can found to increase swim speed.
+- Air Strike Tablets - AC50 - Gunship
+    - C-5M Targeted-unguided air strike.
+    - AGM-12 Bullpup Guided Strike
+        - Slightly bugged.  When you get into guidance mode, escape to the main menu and then continue back to the game (similar to the hotbar glitch fix). You will then have mouse-control over the guidance systems.
+    - Heck, it's even a great gps/compass replacement!
+- You can find a dog, and befriend it with a bone.
+    - Your dog is "logged off" and "logged in" together with you ( the dog will stay in the last known location )
+    - You can whistle to call (teleport) dog to you (See game options > keybinds)
+    - Dogs have 3 modes: follow, patrol and stay here.
+Follow ( switched automatically to patrol mode when an infected in range targets you )
+Patrol ( can attack nearby infected )
+Stay Here
+    - When in follow mode, your dog can enter a vehicle with you
+    - You can control your dog using emotes too.
+    - Watch out for your companion, if your dog gets too injured they will die!
+    - Dogs need gas masks to survive toxic zones
+    - You have to set up keybinds
+      - Recommendation:
+          - `P` : Patrol
+          - `[` : Follow
+          - `]` : Stay
+          - `\` : Whistle
+      - You can feed dogs with Meat (not fish) to restore dog health.
+      - You can find a dog kennel kit for your base... but it's pretty rare.
+      - When you hit patrol, the dog head to and start patrolling at the point of your crosshair.
+- Blue Plastic Drum Storage:
+    - The blue plastic drum barrels can be buried when empty and closed, but can be open and accessed when buried, and are the only of it's kind and are a great way to get a base-building stash started.
+- Codelocks can be used to secure both storage and bases
+
+## Important Recipes:
+- Plastic Bottle Fish Trap = Bottle + Knife
+- ghille suit = knife + camonet
+- bushrag and ghillie hood = knife + camonet
+- gunwrap and ghillie hood = knife + camonet
+- gunwrap and bushrag = knife + camonet
+- Nails = pliers + Metal/Barbed Wire
+- Crossbow stock = (Knife,Saw,Axe or Sickle) + Firewood
+- Crossbow firing mechanism = (Pliers,Hammer,Hacksaw or Handsaw) + Sheet Metal
+- Incomplete crossbow = Crossbow stock + Crossbow firing mechanism
+- Crossbow = Incomplete crossbow + rope
+- Underground Base Dig/upgrade site = Shovel + dirt patch/floor of underground base
+- Underground Base Lvl 1 = 6 wooden logs + 99 nails + 40 planks + hammer/hatchet
+- Underground Base Lvl 2 = 6 wooden logs + 99 nails + 20 sheet metal + 40 planks + hammer/hatchet.
+
+
+
+- AS Laptops, Drone Tablets, and Drones may be found at and by searching heli crash sites
+     - recon drone is a camera
+     - simple drone takes a grenade
+     - Cargo drone takes a wooden crate
+     - drones need to be paired with a drone tablet
+     - deployed drones may be disassembled into its kit with a screwdriver.
+- You may construct the various implements needed to forge, and forge various tools.
+     - crushed bones 45x  = Hammer + Bones 10x
+     - Unfired Clay Crucible = 20x Crushed Bones + 20x Clay
+     - Anvil Mold = 350x Plant Material + 60 Clay
+     - Nugget Mold = 50x Plant Material + 3 Clay
+     - Bar Mold = 150x Plant Material + 10 Clay
+     - Ingot Mold = 350x Plant Material + 25 Clay
+     - 10x Clay Bricks = 350x Plant Material + 20 Clay
+     - Simple Smelter = 5x Short Sticks + 80x Clay
+     - Coal Ore = Pickaxe + Coal Boulder
+     - Coal 3x = 1x Coal Ore + Hammer
+     - Pile of Coal (7x Coal Ore) = 10x Coal + 10 Coal
+     - Clay Crucible = Simple Smelter + Pile of Coal + Matches + Unfired Clay Crucible
+     - Fired Clay Bricks 100x = Simple Smelter + Unfired Clay Bricks 100x
+     - Filled Crucible with Iron = Fired Clay/Metal Crucible + 3x Iron Ore
+     - Molten Metal = Filled Crucible + Simple Smelter
+     - Anvil, Nugget, Bar, Ingot = Molten Metal + Mold
+     - Mold Contents = Hammer + Filled Mold
+     - Stump = Axe + Tree
+     - Pile of Split Wood = Axe + Stump
+     - Pile of Charcoal = Smelter (not standalone) + Pile of Split Wood
+     - Usable Anvil = Stump + Anvil
+     - forge = 100x fired clay bricks + 80 clay
+     - smelter = 100x fired clay bricks + 80 clay
+     - hooded forge = 50x fired clay bricks + forge
+     - impure iron anvil = 3x Crucible w/ molten iron + anvil mold
+- Vehicle workbench kit = 5x sheet metal + 60x nails
+- We have immersive placing of objects as an alternative means to place objects.  Setup your keybind:
+    - Options -> Controls -> Configure Keybindings -> Scroll right(/left) to `Unsorted` -> `Place Item`
+    - To activate alternative placement, HOLD your placement keybind while having a placable object in hand.
+- You can craft your own ammo.
+    - by building an ammo crafting table:
+        - Find a press handle and a press mechanism and combine them.
+        - Find a press body and add the combined press mechanism and handle, press mounting plate, and press die. use a wrench to assemble.
+        - Use a handsaw and 2x wooden logs to saw workbench legs for a total of 4x workbench legs.  Combine them with wooden planks to craft a workbench
+        - Combine the workbench with the finished ammo press, a funnel, and a scale to complete the ammo crafting bench.
+        - You can also reliably find fixed ammo crafting benches in particular building types around the map. They will also spawn the basics of what you need to craft ammo, so look around those buildings for a stand-alone smelter and a crucible.
+    - Make Gunpowder
+        - The Easy Way:
+            - Gunpowder = Combine Bag of Sulfur + Bottle of Potassium Nitrate with Charcoal
+            - Gunpowder = Pliers + Ammo
+            - Potassium Nitrate with Charcoal = Potassium Nitrate + Charcoal Tablets
+        - The Resourceful Way
+            - Wood Axe + Medium/Large Tree = Logs, Firewood, Treestump
+            - Wood Axe + Tree Stump = Pile of Split Wood
+            - Pile of Charcoal + Hammer = Charcoal Powder
+            - Sulfur Ore + Hammer = Sulfur Powder
+            - Sulfur Powder + Charcoal Powder = Sulfur & Charcoal Powder Mixture
+            - Sulfur & Charcoal Powder Mixture + Potassium Nitrate = Gunpowder
+    - Get Tips and Casings
+        - The easy way:
+            - Rife/Pistol Tips & Casings = Pliers + Ammo
+        - The Resourceful Way:
+            - Fill a Crucible with Molten Lead
+                - Option 1: Add tips/slugs to crucible with mouse click.
+                - Option 2: Mine Lead ore and combine it with the crucible.
+            - Fill a Crucible with Molten Brass
+                - Option 1: Add tips/slugs to crucible with mouse click
+                - Option 2: Copper + Zinc
+            - Make Molds 
+                - Rifle/Pistol Tips Mold = Rifle/Pistol Tips + Lump of Clay
+                - Rifle/Pistol Casing Mold = Rifle/Pistol Casing + Lump of Clay
+
+Weird Bugs:
+ - Sometimes you can't stop eating once you've started

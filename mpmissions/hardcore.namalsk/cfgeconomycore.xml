@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+	</classes>
+	<ce folder="db">
+		<file name="3_bears.xml" type="types" />
+		<file name="9v_charger.xml" type="types" />
+		<file name="advanced_weapon_scopes.xml" type="types" />
+		<file name="ammo_making.xml" type="types" />
+		<file name="ammo.xml" type="types" />
+		<file name="animals.xml" type="types" />
+		<file name="artillery.xml" type="types" />
+		<file name="atv.xml" type="types" />
+		<file name="baby_deer.xml" type="types" />
+		<file name="backpacks.xml" type="types" />
+		<file name="better_ghille.xml" type="types" />
+		<file name="better_stash.xml" type="types" />
+		<file name="bloodsuckers.xml" type="types" />
+		<file name="car_cover.xml" type="types" />
+		<file name="clothes.xml" type="types" />
+		<file name="codelock.xml" type="types" />
+		<file name="concussion_grenade.xml" type="types" />
+		<file name="containers.xml" type="types" />
+		<file name="cooking.xml" type="types" />
+		<file name="craftables.xml" type="types" />
+		<file name="crossbow.xml" type="types" />
+		<file name="diving.xml" type="types" />
+		<file name="dogs.xml" type="types" />
+		<file name="drones.xml" type="types" />
+		<file name="food.xml" type="types" />
+		<file name="gauss_rifle.xml" type="types" />
+		<file name="GearPDA.xml" type="types" />
+		<file name="gloves.xml" type="types" />
+		<file name="gravigenerator.xml" type="types" />
+		<file name="growler.xml" type="types" />
+		<file name="head_and_face.xml" type="types" />
+		<file name="helis.xml" type="types" />
+		<file name="honeybadger.xml" type="types" />
+		<file name="infected.xml" type="types" />
+		<file name="Kamaz_Truck.xml" type="types" />
+		<file name="lamv.xml" type="types" />
+		<file name="land_rover_defender.xml" type="types" />
+		<file name="LEHScase.xml" type="types" />
+		<file name="magazines.xml" type="types" />
+		<file name="medical.xml" type="types" />
+		<file name="metallurgy.xml" type="types" />
+		<file name="misc.xml" type="types" />
+		<file name="mmg_storage.xml" type="types" />
+		<file name="motoblok.xml" type="types" />
+		<file name="namalsk_igloo.xml" type="types" />
+		<file name="NBCcase.xml" type="types" />
+		<file name="raft.xml" type="types" />
+		<file name="shoes.xml" type="types" />
+		<file name="snowmobiles.xml" type="types" />
+		<file name="TR142.xml" type="types" />
+		<file name="treasure.xml" type="types" />
+		<file name="trolley.xml" type="types" />
+		<file name="types_dzn.xml" type="types" />
+		<file name="underground_bases.xml" type="types" />
+		<file name="vehicles.xml" type="types" />
+		<file name="watercraft.xml" type="types" />
+		<file name="weapon_attachments.xml" type="types" />
+		<file name="weapons.xml" type="types" />
+		<file name="windstride.xml" type="types" />
+	</ce>
+</economycore>

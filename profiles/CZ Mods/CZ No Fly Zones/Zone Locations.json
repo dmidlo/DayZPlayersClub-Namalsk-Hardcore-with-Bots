@@ -1,0 +1,17 @@
+{
+    "configVersionDontChange": "1.1",
+    "locations": [
+        {
+            "name": "No Fly Zone",
+            "position": [
+                10995.3,
+                0,
+                1833.36
+            ],
+            "warningRadius": 3000,
+            "radius": 2000,
+            "warningNotificationTitle": "Warning!",
+            "warningNotificationText": "You are approaching a no fly zone, you have been warned!"
+        }
+    ]
+}

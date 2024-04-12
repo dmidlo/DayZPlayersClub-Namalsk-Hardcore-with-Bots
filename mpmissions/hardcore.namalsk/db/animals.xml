@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<types>
+      <!-- Entrails -->
+  <type name="Guts">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="Bone">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+
+  <!-- Pelts -->
+  <type name="GoatPelt">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="SheepPelt">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="DeerPelt">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="WildboarPelt">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="WolfPelt">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="BearPelt">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="RabbitPelt">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+
+
+  <!-- Meats -->
+  <type name="Lard">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="GoatSteakMeat">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="SheepSteakMeat">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="DeerSteakMeat">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="BoarSteakMeat">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="WolfSteakMeat">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="BearSteakMeat">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="RabbitLegMeat">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+
+    <!-- DE support - animal spawns -->
+    <type name="Animal_CapraHircusF">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_CapraHircus_Black">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_CapraHircus_Brown">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_CapraHircus_White">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_OvisAries">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_OvisAriesF">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_CapreolusCapreolus">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_CapreolusCapreolusF">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_CervusElaphus">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_CervusElaphusF">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_SusScrofa">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_CanisLupus_Grey">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_CanisLupus_White">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_UrsusArctos">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Animal_UrsusMaritimus">
+      <nominal>0</nominal>
+      <lifetime>3600</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+</types>

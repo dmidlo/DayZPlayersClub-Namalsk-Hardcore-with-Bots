@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+        <!--Данный xml файл был сделан и проверен h4rdpr0#9783,если вы нашли какую-то ошибку то сообщите мне об этом. Спасибо!  -->
+        <!--This xml file was made and checked by h4rdpr0#9783,if you find any error, please let me know. Thanks!  --> 
+<types>    
+	<!--Автомобили / Cars  -->
+    <type name="LAMV">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="LAMV_Blue">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    	<!--Аттачменты / Attachments  -->
+    <type name="LAMV_Wheel">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>
+    <type name="LAMV_WheelDouble">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>
+    <type name="LAMV_Doors_Driver">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>
+    <type name="LAMV_Doors_CoDriver">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>
+    <type name="LAMV_doors_Trunk">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>
+    <type name="LAMV_doors_Hood">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>    
+    <type name="LAMV_Doors_Driver_Blue">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>
+    <type name="LAMV_Doors_CoDriver_Blue">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>
+    <type name="LAMV_doors_Trunk_Blue">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>
+    <type name="LAMV_doors_Hood_Blue">
+        <nominal>2</nominal>
+        <lifetime>2700</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="civilian"/>
+        <tag name="industrial" />
+    </type>
+</types>

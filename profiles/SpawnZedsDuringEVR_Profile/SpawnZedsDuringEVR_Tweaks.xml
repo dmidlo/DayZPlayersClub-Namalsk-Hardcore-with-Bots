@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> <!--  -->
+
+<types> 	
+	<type name="Globals">
+        <Debug_Mod							Value = "0"/> 		<!-- -1 : No debug message / 0 : Only numpad1 "Refresh" Message / 1 : All Debug Messages / (only admins see messages) -->
+        <EVR_Zombies_Spawn_Activated		Value = "true"/> 	<!-- true or false to enable or disable the mod -->
+		<Spawn_Area_Coords					Up_Left_Corner = "4200/11500"	Down_Right_Corner = "7900/5400"/> 	<!-- Draw a rectangle shape for the spawn area -->
+		
+        <!-- This config will basiscally increase the spawn rate of zombies around the player allowing for random 'woods zombies' sequences/events-->
+        <!-- default config gives a conrtracted window of high intensity from when the red sky appears and sets despawn timer to -1, requiring the player
+        to dispose of all the baddies before moving on.  The default config also RECONMENDS using bloodsuckers and novel zombie types, so I just went whit it.-->
+        <!-- This config uses the entire EVR event to spawn regular zombie types in a radius around the player. The goal with this new config is to provide
+            ...just a sublte increase in the feeling of zombie presence on the insland. Woods zombies everywhere along with screamers during EVR, then not when not
+        -->
+        <Zombies_Spawn_Timer				Value = "0"/> 	<!-- 0 : FirstLightnings / 34.6 : RedSky / 65.6 : FirstBoom / 79.1 : LastBoom -->
+        <Zombies_Despawn_Timer				Value = "79.1"/> 	<!-- Time in seconds after zombies have spawn (-1 : Never Despawn) -->
+		<!-- Ex: if ActivateTimer = 34.6 (when sky turns red) and you want zeds despawn on the last Boom, set DeactivateTimer = 44.5 ( = 79.1 - 34.6 ) -->
+		
+        <Spawn_Distance_Mini_To_Player		Value = "13"/> 	<!-- Meters (Decimal) -->
+        <Spawn_Distance_Maxi_To_Player		Value = "20"/> 	<!-- Meters (Decimal) -->
+		<!-- Don't be surprise The finale chosen distance can be around 1.5 superior to Max distance -->
+		
+
+        <Total_Number_Of_Zombies_Per_EVR_Storm	Value = "30"/> 	<!-- Max Number of zeds to spawn per EVR (Integer) -->
+        <!-- To get this number, multiply Number_Of_Zombies_Maxi_Per_Player by the player slots of your server. 
+            OR consider this the max number of uniquie zombie experiences possible when setting the range below. -->
+
+        <!-- Travel during EVR should be more difficult, not impossible/intractable. -->
+
+        <Number_Of_Zombies_Mini_Per_Player		Value = "2"/> 	<!-- Min Number of zeds to spawn near each player (Integer) -->
+        <Number_Of_Zombies_Maxi_Per_Player		Value = "12"/> 	<!-- Max Number of zeds to spawn near each player (Integer) -->
+        <!-- Class names separate with commas -->
+        <Evr_Zombies_List						Value = "ZmbM_priestPopSkinny,ZmbF_PoliceWomanNormal,ZmbM_PolicemanFat,ZmbM_PolicemanSpecForce,ZmbM_usSoldier_Officer_Desert,ZmbM_nacSoldier_normal"/>
+        <!-- Yeah, so the mod devs recommend bloodsuckers etc. to create a novel experience, but we employ bloodsuckers to create novelty in another
+        way through having them spawn at locations of special interest to add to **their** novelty. Using them during EVR seems to muddy them and make them less exciting.-->
+        <!-- I took out the zombie wolves, not because they don't fit within this gameplay design adjustment, but because I have a hunch the package is buggy somehow. -->
+    </type>
+
+	<type name="NewFeatures">
+    </type>
+</types>

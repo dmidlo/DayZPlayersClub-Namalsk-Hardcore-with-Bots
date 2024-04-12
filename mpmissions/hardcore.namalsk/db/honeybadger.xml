@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+      <type name="ASC_HoneyBadger_Black">
+          <nominal>1</nominal>        
+          <lifetime>7200</lifetime>
+          <restock>7200</restock>
+          <min>0</min>
+          <quantmin>-1</quantmin>
+          <quantmax>-1</quantmax>
+          <cost>100</cost>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+          <category name="weapons"/>
+          <tag name="military"/>
+          <value user="Tier5"/>
+      </type>
+      <type name="ASC_HoneyBadger_Stock">
+          <nominal>0</nominal>
+          <lifetime>7200</lifetime>
+          <restock>0</restock>
+          <min>0</min>
+          <quantmin>-1</quantmin>
+          <quantmax>-1</quantmax>
+          <cost>100</cost>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+          <category name="weapons"/>
+          <tag name="military"/>
+          <value user="Tier345"/>
+      </type>
+      <type name="ASC_HoneyBadger_HandGuard">
+          <nominal>0</nominal>
+          <lifetime>7200</lifetime>
+          <restock>0</restock>
+          <min>0</min>
+          <quantmin>-1</quantmin>
+          <quantmax>-1</quantmax>
+          <cost>100</cost>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+          <category name="weapons"/>
+          <tag name="military"/>
+          <value user="Tier345"/>
+      </type>
+      <type name="ASC_HoneyBadger_HandGuard_Black">
+          <nominal>0</nominal>
+          <lifetime>7200</lifetime>
+          <restock>0</restock>
+          <min>0</min>
+          <quantmin>-1</quantmin>
+          <quantmax>-1</quantmax>
+          <cost>100</cost>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+          <category name="weapons"/>
+          <tag name="military"/>
+          <value user="Tier345"/>
+      </type>
+      <type name="ASC_HoneyBadger_Suppressor">
+          <nominal>1</nominal>
+          <lifetime>10800</lifetime>
+          <restock>3600</restock>
+          <min>1</min>
+          <quantmin>10</quantmin>
+          <quantmax>60</quantmax>
+          <cost>100</cost>
+          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+          <category name="weapons"/>
+          <tag name="military"/>
+          <value user="Tier5"/>
+      </type>
+</types>

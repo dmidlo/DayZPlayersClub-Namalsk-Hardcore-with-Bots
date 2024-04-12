@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+      <!-- NAMALSK - FOOD N DRINKS -->
+  <type name="BoxCerealCrunchin">
+    <nominal>4</nominal>
+    <min>3</min>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="PowderedMilk">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="Rice">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="Zagorky">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="ZagorkyChocolate">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="ZagorkyPeanuts">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="SaltySticks">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="Crackers">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="Chips">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+</types>

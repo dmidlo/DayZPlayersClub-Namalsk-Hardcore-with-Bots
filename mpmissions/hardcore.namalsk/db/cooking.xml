@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+      <!-- Cooking Vessels -->
+  <type name="Tripod">
+    <nominal>13</nominal>
+    <min>7</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+  </type>
+  <type name="PortableGasStove">
+    <nominal>10</nominal>
+    <min>6</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+  </type>
+  <type name="FryingPan">
+    <nominal>15</nominal>
+    <min>10</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+  </type>
+  <type name="PortableGasLamp">
+    <nominal>15</nominal>
+    <min>7</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+  </type>
+  <type name="ZH_MikeTangoSierra">
+    <nominal>14</nominal>
+    <min>6</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
+    <tag name="military" />
+  </type>
+  <type name="ZH_MikeTangoSierra2">
+    <lifetime>5400</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="ZH_MikeTangoSierra3">
+    <lifetime>5400</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+</types>

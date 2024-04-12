@@ -1,0 +1,1123 @@
+{
+    "OverrideMapSize": 0,
+    "MapSize": 15360,
+    "BomberAltitude": 550,
+    "BomberSpeed": 20,
+    "NumOfBombs": 20,
+    "Notifications": 0,
+    "EnableShips": 0,
+    "EnableSubmarine": 0,
+    "EnableAndula": 0,
+    "EnableMig21": 1,
+    "EnableUFO": 0,
+    "EnableMi24": 1,
+    "EnableMi6": 1,
+    "EnableBalloon": 0,
+    "Interval": 17.0,
+    "SubmarineInterval": 60.0,
+    "BoatInterval": 60.0,
+    "AndulaInterval": 60.0,
+    "Mig21Interval": 32.0,
+    "UFOInterval": 120.0,
+    "Mi24Interval": 37.0,
+    "Mi6Interval": 26.0,
+    "BalloonInterval": 60.0,
+    "AirRaidLocations": [
+        {
+            "name": "Alakit-01",
+            "sirenpos": "5816.74 750 10521.3",
+            "target": "5816.74 35.1017 10521.3",
+            "type": "light"
+        },
+        {
+            "name": "Jal-01",
+            "sirenpos": "7788.76 750 11269.9",
+            "target": "7788.76 30.2372 11269.9",
+            "type": "light"
+        },
+        {
+            "name": "Jal-03",
+            "sirenpos": "8223.82 750 11041.3",
+            "target": "8223.82 18.4357 11041.3",
+            "type": "light"
+        },
+        {
+            "name": "Jal-05",
+            "sirenpos": "8268.26 750 10626.9",
+            "target": "8268.26 15.5001 10626.9",
+            "type": "light"
+        },
+        {
+            "name": "Lub-01",
+            "sirenpos": "4862.95 750 10842.2",
+            "target": "4862.95 13.8603 10842.2",
+            "type": "light"
+        },
+        {
+            "name": "Lub-03",
+            "sirenpos": "4541.15 750 10621",
+            "target": "4541.15 26.7575 10621",
+            "type": "light"
+        },
+        {
+            "name": "Nemsk-01",
+            "sirenpos": "8757.32 750 10678.2",
+            "target": "8757.32 13.9166 10678.2",
+            "type": "light"
+        },
+        {
+            "name": "Nemsk-03",
+            "sirenpos": "8442.92 750 10142.1",
+            "target": "8442.92 14.7135 10142.1",
+            "type": "light"
+        },
+        {
+            "name": "Nemsk-05",
+            "sirenpos": "8867.39 750 10075.4",
+            "target": "8867.39 13.2429 10075.4",
+            "type": "light"
+        },
+        {
+            "name": "Outskirts-01",
+            "sirenpos": "7277.7 750 10637.4",
+            "target": "7277.7 38.4624 10637.4",
+            "type": "light"
+        },
+        {
+            "name": "Vorkuta-01",
+            "sirenpos": "6912.33 750 11917.5",
+            "target": "6912.33 7.69675 11917.5",
+            "type": "light"
+        },
+        {
+            "name": "Vorkuta-04",
+            "sirenpos": "6796.95 750 11032.5",
+            "target": "6796.95 16.9383 11032.5",
+            "type": "light"
+        },
+        {
+            "name": "Alakit-02",
+            "sirenpos": "5548.81 750 10309.7",
+            "target": "5548.81 37.6625 10309.7",
+            "type": "light"
+        },
+        {
+            "name": "Dam-01",
+            "sirenpos": "5782 13.750.4",
+            "target": "5782 13.0647 10041.4",
+            "type": "light"
+        },
+        {
+            "name": "Dam-03",
+            "sirenpos": "5461.26 750 9732.31",
+            "target": "5461.26 32.9831 9732.31",
+            "type": "normal"
+        },
+        {
+            "name": "Dam-05",
+            "sirenpos": "5435.22 750 9446.97",
+            "target": "5435.22 62.9016 9446.97",
+            "type": "light"
+        },
+        {
+            "name": "Jal-02",
+            "sirenpos": "7772.88 750 10680.3",
+            "target": "7772.88 24.3222 10680.3",
+            "type": "light"
+        },
+        {
+            "name": "Jal-04",
+            "sirenpos": "8220.64 750 10658.1",
+            "target": "8220.64 15.5001 10658.1",
+            "type": "normal"
+        },
+        {
+            "name": "Jal-06",
+            "sirenpos": "8187.83 750 10526.8",
+            "target": "8187.83 15.2509 10526.8",
+            "type": "light"
+        },
+        {
+            "name": "Junkyard-01",
+            "sirenpos": "6282.5 750 11026.2",
+            "target": "6282.5 32.0244 11026.2",
+            "type": "light"
+        },
+        {
+            "name": "Lub-02",
+            "sirenpos": "4618.43 750 11096.3",
+            "target": "4618.43 11.8155 11096.3",
+            "type": "normal"
+        },
+        {
+            "name": "Mil-Mini-01",
+            "sirenpos": "4391.9 750 10907.9",
+            "target": "4391.9 15.4901 10907.9",
+            "type": "light"
+        },
+        {
+            "name": "Main-Island-01",
+            "sirenpos": "5231.65 750 7065.04",
+            "target": "5231.65 239.923 7065.04",
+            "type": "light"
+        },
+        {
+            "name": "Main-Island-04",
+            "sirenpos": "4693.27 750 6447.36",
+            "target": "4693.27 139.983 6447.36",
+            "type": "normal"
+        },
+        {
+            "name": "Main-Island-07",
+            "sirenpos": "4195.45 750 5885.46",
+            "target": "4391.9 15.4901 10907.9",
+            "type": "light"
+        },
+        {
+            "name": "Main-Island-10",
+            "sirenpos": "5301.93 750 5659.8",
+            "target": "5301.93 6.20949 5659.8",
+            "type": "light"
+        },
+        {
+            "name": "Main-Island-13",
+            "sirenpos": "6163.58 750 5971.01",
+            "target": "6163.58 6.55767 5971.01",
+            "type": "normal"
+        },
+        {
+            "name": "Nemsk-02",
+            "sirenpos": "8827.17 750 10504.1",
+            "target": "8827.17 8.82875 10504.1",
+            "type": "light"
+        },
+        {
+            "name": "Nemsk-04",
+            "sirenpos": "8738.27 750 10516.2",
+            "target": "8738.27 15.1096 10516.2",
+            "type": "light"
+        },
+        {
+            "name": "Outskirts-02",
+            "sirenpos": "6882.88 750 10589.7",
+            "target": "6882.88 15.5001 10589.7",
+            "type": "normal"
+        },
+        {
+            "name": "Refugee-North-01",
+            "sirenpos": "7549.76 750 10389.7",
+            "target": "7549.76 31.0817 10389.7",
+            "type": "light"
+        },
+        {
+            "name": "Refugee-North-03",
+            "sirenpos": "7307.16 750 10567.8",
+            "target": "7307.16 45.9057 10567.8",
+            "type": "light"
+        },
+        {
+            "name": "Vorkuta-02",
+            "sirenpos": "6730.26 750 11537.5",
+            "target": "6730.26 19.1768 11537.5",
+            "type": "normal"
+        },
+        {
+            "name": "Vorkuta-05",
+            "sirenpos": "7303.99 750 11017.7",
+            "target": "7303.99 11.8738 11017.7",
+            "type": "normal"
+        },
+        {
+            "name": "Airfield-01",
+            "sirenpos": "6571.67 750 9373.46",
+            "target": "6571.67 18.6242 9373.46",
+            "type": "light"
+        },
+        {
+            "name": "Airfield-03",
+            "sirenpos": "6126.03 750 9351.23",
+            "target": "6126.03 17.1989 9351.23",
+            "type": "normal"
+        },
+        {
+            "name": "Dam-02",
+            "sirenpos": "5766.12 750 9661.38",
+            "target": "5766.12 20.9751 9661.38",
+            "type": "light"
+        },
+        {
+            "name": "Dam-04",
+            "sirenpos": "5152.59 750 9819.57",
+            "target": "5152.59 20.6763 9819.57",
+            "type": "normal"
+        },
+        {
+            "name": "Factory-01",
+            "sirenpos": "5672 74.750.46",
+            "target": "5672 74.375 8555.46",
+            "type": "light"
+        },
+        {
+            "name": "Factory-03",
+            "sirenpos": "5306.17 750 6370.08",
+            "target": "5306.17 70.3216 6370.08",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-01",
+            "sirenpos": "10722.1 750 11082.4",
+            "target": "10722.1 3.10722 11082.4",
+            "type": "light"
+        },
+        {
+            "name": "Ice-east-04",
+            "sirenpos": "9698.36 750 12052.2",
+            "target": "9698.36 2.50014 12052.2",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-07",
+            "sirenpos": "9312 2.750.8",
+            "target": "9312 2.93982 10544.8",
+            "type": "light"
+        },
+        {
+            "name": "Ice-east-10",
+            "sirenpos": "11243.9 750 10543.6",
+            "target": "11243.9 2.50014 10543.6",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-13",
+            "sirenpos": "11728.8 750 10547.8",
+            "target": "11728.8 3.67205 10547.8",
+            "type": "light"
+        },
+        {
+            "name": "Ice-east-16",
+            "sirenpos": "9716.34 750 10065.9",
+            "target": "9716.34 2.50014 10065.9",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-19",
+            "sirenpos": "10206.6 750 10475.8",
+            "target": "10206.6 0.170811 10475.8",
+            "type": "light"
+        },
+        {
+            "name": "Ice-west-01",
+            "sirenpos": "1290.02 750 9540.08",
+            "target": "1290.02 2.50014 9540.08",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-west-04",
+            "sirenpos": "2207.77 750 9441.97",
+            "target": "2207.77 3.45678 9441.97",
+            "type": "light"
+        },
+        {
+            "name": "Ice-west-07",
+            "sirenpos": "2987.52 750 9590.88",
+            "target": "2987.52 2.76112 9590.88",
+            "type": "normal"
+        },
+        {
+            "name": "Landbridge-01",
+            "sirenpos": "6436.1 -750 8630.66",
+            "target": "6436.1 -0.554339 8630.66",
+            "type": "light"
+        },
+        {
+            "name": "Main-Island-02",
+            "sirenpos": "6132.89 750 6510.87",
+            "target": "6132.89 8.82854 6510.87",
+            "type": "normal"
+        },
+        {
+            "name": "Main-Island-05",
+            "sirenpos": "3756.59 750 6087.92",
+            "target": "6436.1 -0.554339 8630.66",
+            "type": "light"
+        },
+        {
+            "name": "Main-Island-08",
+            "sirenpos": "4638.23 750 5168.64",
+            "target": "4638.23 39.4134 5168.64",
+            "type": "normal"
+        },
+        {
+            "name": "Main-Island-11",
+            "sirenpos": "5793.09 750 5581.47",
+            "target": "5793.09 6.34411 5581.47",
+            "type": "light"
+        },
+        {
+            "name": "Refugee-North-02",
+            "sirenpos": "7221.62 750 10261.6",
+            "target": "7221.62 46.7258 10261.6",
+            "type": "normal"
+        },
+        {
+            "name": "Refugee-South-01",
+            "sirenpos": "5432.05 750 9028.84",
+            "target": "5432.05 45.4469 9028.84",
+            "type": "light"
+        },
+        {
+            "name": "Research-01",
+            "sirenpos": "4705.55 750 8513.12",
+            "target": "4705.55 88.0493 8513.12",
+            "type": "normal"
+        },
+        {
+            "name": "Research-04",
+            "sirenpos": "3706.29 750 7952.1",
+            "target": "3706.29 162.208 7952.1",
+            "type": "light"
+        },
+        {
+            "name": "Sebjan-01",
+            "sirenpos": "5301.51 750 8591.45",
+            "target": "5301.51 38.043 8591.45",
+            "type": "normal"
+        },
+        {
+            "name": "Sub-01",
+            "sirenpos": "11741.5 750 12008.6",
+            "target": "11741.5 2.50014 12008.6",
+            "type": "light"
+        },
+        {
+            "name": "Sub-04",
+            "sirenpos": "11741.5 750 11071.8",
+            "target": "11741.5 2.50014 11071.8",
+            "type": "normal"
+        },
+        {
+            "name": "Sub-07",
+            "sirenpos": "11303.2 750 11551.3",
+            "target": "11303.2 2.50014 11551.3",
+            "type": "light"
+        },
+        {
+            "name": "Sub-10",
+            "sirenpos": "10739 2.750",
+            "target": "10739 2.50014 11528",
+            "type": "normal"
+        },
+        {
+            "name": "Swamp-01",
+            "sirenpos": "7038.49 750 10000.1",
+            "target": "7038.49 1.87883 10000.1",
+            "type": "light"
+        },
+        {
+            "name": "Swamp-05",
+            "sirenpos": "6569.56 750 10039.3",
+            "target": "6569.56 3.52293 10039.3",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-02",
+            "sirenpos": "8120.23 750 7794.41",
+            "target": "8120.23 3.6791 7794.41",
+            "type": "light"
+        },
+        {
+            "name": "Tara-06",
+            "sirenpos": "6766.36 750 7048.14",
+            "target": "6766.36 52.7723 7048.14",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-10",
+            "sirenpos": "7290.76 750 6156.22",
+            "target": "7290.76 69.8022 6156.22",
+            "type": "light"
+        },
+        {
+            "name": "Tara-14",
+            "sirenpos": "7527.87 750 5911.69",
+            "target": "7527.87 23.9118 5911.69",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-18",
+            "sirenpos": "7834.43 750 8325.8",
+            "target": "7290.76 69.8022 6156.22",
+            "type": "light"
+        },
+        {
+            "name": "Uranium-04",
+            "sirenpos": "4766.95 750 7273.57",
+            "target": "4766.95 136.091 7273.57",
+            "type": "normal"
+        },
+        {
+            "name": "Vorkuta-03",
+            "sirenpos": "7328.33 750 11536.4",
+            "target": "7328.33 20.7978 11536.4",
+            "type": "light"
+        },
+        {
+            "name": "Warehouses-01",
+            "sirenpos": "4682.6 750 9094.47",
+            "target": "4682.6 54.8449 9094.47",
+            "type": "normal"
+        },
+        {
+            "name": "Bering-01-01",
+            "sirenpos": "1242.11 750 12058.6",
+            "target": "1242.11 2.01241 12058.6",
+            "type": "normal"
+        },
+        {
+            "name": "Bering-05",
+            "sirenpos": "2776.99 750 11412.9",
+            "target": "2776.99 5.49245 11412.9",
+            "type": "normal"
+        },
+        {
+            "name": "C130-01",
+            "sirenpos": "3253.23 750 7614.42",
+            "target": "3253.23 117.174 7614.42",
+            "type": "normal"
+        },
+        {
+            "name": "Candy-01",
+            "sirenpos": "4225.4 750 6459",
+            "target": "4225.4 332.589 6459",
+            "type": "normal"
+        },
+        {
+            "name": "Factory-02",
+            "sirenpos": "5639.19 750 7939.39",
+            "target": "5639.19 113.749 7939.39",
+            "type": "normal"
+        },
+        {
+            "name": "Factory-04",
+            "sirenpos": "5289.23 750 6047.23",
+            "target": "5289.23 43.3512 6047.23",
+            "type": "normal"
+        },
+        {
+            "name": "Gmas-01",
+            "sirenpos": "4322.7 750 9575.05",
+            "target": "4322.7 13.3583 9575.05",
+            "type": "normal"
+        },
+        {
+            "name": "Gmas-03",
+            "sirenpos": "4010.35 750 9295.14",
+            "target": "4010.35 41.8183 9295.14",
+            "type": "normal"
+        },
+        {
+            "name": "Gmas-05",
+            "sirenpos": "3331.57 750 7924.57",
+            "target": "3331.57 115.899 7924.57",
+            "type": "normal"
+        },
+        {
+            "name": "Hill-01",
+            "sirenpos": "3280.25 750 6561.09",
+            "target": "3280.25 240.738 6561.09",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-02",
+            "sirenpos": "10258.4 750 11054.9",
+            "target": "10258.4 2.50014 11054.9",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-05",
+            "sirenpos": "9799.98 750 11549.4",
+            "target": "9799.98 2.50014 11549.4",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-08",
+            "sirenpos": "9279.18 750 11114.3",
+            "target": "9279.18 5.41077 11114.3",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-11",
+            "sirenpos": "12136.3 750 10465",
+            "target": "12136.3 2.50014 10465",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-14",
+            "sirenpos": "11038.4 750 11032.4",
+            "target": "11038.4 2.1 11032.4",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-17",
+            "sirenpos": "9686.7 750 10559.2",
+            "target": "9686.7 2.50014 10559.2",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-20",
+            "sirenpos": "10097.7 750 8842.96",
+            "target": "10097.7 3.21572 8842.96",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-west-02",
+            "sirenpos": "1247.68 750 9242.63",
+            "target": "1247.68 0.549013 9242.63",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-west-05",
+            "sirenpos": "2184.49 750 8927.18",
+            "target": "2184.49 2.50014 8927.18",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-west-08",
+            "sirenpos": "3234.56 750 8907.07",
+            "target": "3234.56 2.50014 8907.07",
+            "type": "normal"
+        },
+        {
+            "name": "JFSC-01",
+            "sirenpos": "1840.63 750 5881.5",
+            "target": "1840.63 2.50014 5881.5",
+            "type": "normal"
+        },
+        {
+            "name": "Landbridge-02",
+            "sirenpos": "6889.15 750 8334.27",
+            "target": "6889.15 9.30397 8334.27",
+            "type": "normal"
+        },
+        {
+            "name": "Main-Island-03",
+            "sirenpos": "5753.93 750 5949.84",
+            "target": "5753.93 56.8367 5949.84",
+            "type": "normal"
+        },
+        {
+            "name": "Main-Island-06",
+            "sirenpos": "4720.79 750 5682.03",
+            "target": "4720.79 81.5392 5682.03",
+            "type": "normal"
+        },
+        {
+            "name": "Main-Island-09",
+            "sirenpos": "4675.28 750 6099.1",
+            "target": "4675.28 123.215 6099.1",
+            "type": "normal"
+        },
+        {
+            "name": "Main-Island-12",
+            "sirenpos": "6119.12 750 5599.47",
+            "target": "6119.12 8.70006 5599.47",
+            "type": "normal"
+        },
+        {
+            "name": "Norinsk-01",
+            "sirenpos": "3283.93 750 7053.39",
+            "target": "3283.93 94.4873 7053.39",
+            "type": "normal"
+        },
+        {
+            "name": "Norinsk-03",
+            "sirenpos": "3744.4 750 7571.02",
+            "target": "3744.4 64.0755 7571.02",
+            "type": "normal"
+        },
+        {
+            "name": "PrisonIsle-01",
+            "sirenpos": "3922.97 750 10341.5",
+            "target": "3922.97 2.50014 10341.5",
+            "type": "normal"
+        },
+        {
+            "name": "Refugee-South-02",
+            "sirenpos": "4265.2 750 8495.13",
+            "target": "4265.2 94.8942 8495.13",
+            "type": "normal"
+        },
+        {
+            "name": "Research-02",
+            "sirenpos": "4154.29 750 8957.68",
+            "target": "4154.29 173.388 8957.68",
+            "type": "normal"
+        },
+        {
+            "name": "Research-05",
+            "sirenpos": "4227.09 750 8024.08",
+            "target": "4227.09 78.2403 8024.08",
+            "type": "normal"
+        },
+        {
+            "name": "Sebjan-02",
+            "sirenpos": "5319.51 750 8632.74",
+            "target": "5319.51 37.0938 8632.74",
+            "type": "normal"
+        },
+        {
+            "name": "Sub-02",
+            "sirenpos": "12165.9 750 11989.3",
+            "target": "12165.9 2.50014 11989.3",
+            "type": "normal"
+        },
+        {
+            "name": "Sub-05",
+            "sirenpos": "11734 3.750.3",
+            "target": "11734 3.29451 11569.3",
+            "type": "normal"
+        },
+        {
+            "name": "Sub-08",
+            "sirenpos": "11177.3 750 12019.2",
+            "target": "11177.3 2.12728 12019.2",
+            "type": "normal"
+        },
+        {
+            "name": "Swamp-02",
+            "sirenpos": "6348.32 750 10175.8",
+            "target": "6348.32 15.3335 10175.8",
+            "type": "normal"
+        },
+        {
+            "name": "Swamp-06",
+            "sirenpos": "6373.73 750 9713.25",
+            "target": "6373.73 21.6099 9713.25",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-03",
+            "sirenpos": "7623.78 750 8024.12",
+            "target": "7623.78 60.0191 8024.12",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-07",
+            "sirenpos": "7449.12 750 7023.8",
+            "target": "7449.12 187.954 7023.8",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-11",
+            "sirenpos": "7902.6 750 6609.27",
+            "target": "7902.6 56.5838 6609.27",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-15",
+            "sirenpos": "7217.72 750 5599.42",
+            "target": "7217.72 16.3438 5599.42",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-19",
+            "sirenpos": "7744.07 750 9185.21",
+            "target": "7744.07 31.8407 9185.21",
+            "type": "normal"
+        },
+        {
+            "name": "Uranium-02",
+            "sirenpos": "4792.35 750 7681.11",
+            "target": "4792.35 108.256 7681.11",
+            "type": "normal"
+        },
+        {
+            "name": "Uranium-05",
+            "sirenpos": "4305.42 750 7124.32",
+            "target": "4305.42 165.713 7124.32",
+            "type": "normal"
+        },
+        {
+            "name": "A2-01",
+            "sirenpos": "4782.02 750 6676.51",
+            "target": "4782.02 96.9257 6676.51",
+            "type": "normal"
+        },
+        {
+            "name": "Bering-02",
+            "sirenpos": "1610.35 750 12148.6",
+            "target": "1610.35 5.10629 12148.6",
+            "type": "heavy"
+        },
+        {
+            "name": "Bering-04",
+            "sirenpos": "1308.79 750 11326.1",
+            "target": "1308.79 4.97664 11326.1",
+            "type": "normal"
+        },
+        {
+            "name": "Bering-06",
+            "sirenpos": "2537.76 750 10822.2",
+            "target": "2537.76 2.01242 10822.2",
+            "type": "heavy"
+        },
+        {
+            "name": "Candy-02",
+            "sirenpos": "3775.64 750 6573.79",
+            "target": "3775.64 223.107 6573.79",
+            "type": "normal"
+        },
+        {
+            "name": "Gmas-02",
+            "sirenpos": "4719.65 750 9517.89",
+            "target": "4719.65 39.5744 9517.89",
+            "type": "heavy"
+        },
+        {
+            "name": "Gmas-04",
+            "sirenpos": "3335.8 750 8411.5",
+            "target": "3335.8 21.8719 8411.5",
+            "type": "normal"
+        },
+        {
+            "name": "Hill-02",
+            "sirenpos": "2726.63 750 6574.85",
+            "target": "2726.63 168.199 6574.85",
+            "type": "heavy"
+        },
+        {
+            "name": "Ice-east-03",
+            "sirenpos": "10256.3 750 11473",
+            "target": "10256.3 3.17761 11473",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-06",
+            "sirenpos": "9337.4 750 11560",
+            "target": "9337.4 2.50014 11560",
+            "type": "heavy"
+        },
+        {
+            "name": "Ice-east-09",
+            "sirenpos": "8954.21 750 11340.8",
+            "target": "8954.21 4.09205 11340.8",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-12",
+            "sirenpos": "11724.5 750 10110.6",
+            "target": "11724.5 1.53291 10110.6",
+            "type": "heavy"
+        },
+        {
+            "name": "Ice-east-15",
+            "sirenpos": "10723.1 750 10596.5",
+            "target": "10723.1 2.50014 10596.5",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-east-18",
+            "sirenpos": "9734.36 750 10535.3",
+            "target": "9734.36 1.29633 10535.3",
+            "type": "heavy"
+        },
+        {
+            "name": "Ice-east-21",
+            "sirenpos": "10567.7 750 8717",
+            "target": "10567.7 3.00529 8717",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-west-03",
+            "sirenpos": "1781.18 750 9539.36",
+            "target": "1781.18 1.49649 9539.36",
+            "type": "heavy"
+        },
+        {
+            "name": "Ice-west-06",
+            "sirenpos": "2557.79 750.42",
+            "target": "2557.79 3 8563.42",
+            "type": "normal"
+        },
+        {
+            "name": "Ice-west-09",
+            "sirenpos": "3665.34 -750 9575.05",
+            "target": "3665.34 -5.72142 9575.05",
+            "type": "heavy"
+        },
+        {
+            "name": "JFSC-02",
+            "sirenpos": "2703.34 750 5952.43",
+            "target": "",
+            "type": "normal"
+        },
+        {
+            "name": "Norinsk-02",
+            "sirenpos": "3862.95 750 7180.42",
+            "target": "3862.95 123.951 7180.42",
+            "type": "heavy"
+        },
+        {
+            "name": "Oilrig-01",
+            "sirenpos": "8783.94 750 8531.16",
+            "target": "8783.94 2.48035 8531.16",
+            "type": "normal"
+        },
+        {
+            "name": "Oilrig-03",
+            "sirenpos": "9809.75 750 8465.06",
+            "target": "9809.75 2.50014 8465.06",
+            "type": "heavy"
+        },
+        {
+            "name": "Oilrig-05",
+            "sirenpos": "10812.2 750 8317.93",
+            "target": "10812.2 4.67871 8317.93",
+            "type": "normal"
+        },
+        {
+            "name": "Oilrig-07",
+            "sirenpos": "11580.1 750 8285.45",
+            "target": "11580.1 2.8936 8285.45",
+            "type": "heavy"
+        },
+        {
+            "name": "Oilrig-09",
+            "sirenpos": "12009.9 750 7589.99",
+            "target": "12009.9 2.50014 7589.99",
+            "type": "normal"
+        },
+        {
+            "name": "PrisonIsle-02",
+            "sirenpos": "3336.14 750 9968.83",
+            "target": "3336.14 2.50014 9968.83",
+            "type": "heavy"
+        },
+        {
+            "name": "Research-03",
+            "sirenpos": "3712.64 750 8426.32",
+            "target": "3712.64 118.853 8426.32",
+            "type": "normal"
+        },
+        {
+            "name": "Sub-03",
+            "sirenpos": "12158.5 750 11543.6",
+            "target": "12158.5 2.50014 11543.6",
+            "type": "heavy"
+        },
+        {
+            "name": "Sub-06",
+            "sirenpos": "11336 2.750.7",
+            "target": "11336 2.50014 11123.7",
+            "type": "normal"
+        },
+        {
+            "name": "Sub-09",
+            "sirenpos": "10722.1 750 12044.6",
+            "target": "10722.1 4.22536 12044.6",
+            "type": "heavy"
+        },
+        {
+            "name": "Swamp-03",
+            "sirenpos": "6732.38 750 10542.4",
+            "target": "6732.38 14.6181 10542.4",
+            "type": "normal"
+        },
+        {
+            "name": "Swamp-07",
+            "sirenpos": "6790.79 750 9698.43",
+            "target": "6790.79 9.69536 9698.43",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-04",
+            "sirenpos": "7233.18 750 7600.7",
+            "target": "7233.18 129.838 7600.7",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-08",
+            "sirenpos": "7215.18 750 7305.37",
+            "target": "7215.18 207.806 7305.37",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-12",
+            "sirenpos": "7803.09 750 6169.98",
+            "target": "7803.09 28.5972 6169.98",
+            "type": "normal"
+        },
+        {
+            "name": "Tara-16",
+            "sirenpos": "7149.97 750 5900.05",
+            "target": "7149.97 46.4518 5900.05",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-20",
+            "sirenpos": "8008.03 750 8773.56",
+            "target": "8008.03 26.053 8773.56",
+            "type": "normal"
+        },
+        {
+            "name": "Uranium-03",
+            "sirenpos": "5207.3 750 7539.26",
+            "target": "5207.3 151.111 7539.26",
+            "type": "heavy"
+        },
+        {
+            "name": "Bering-03",
+            "sirenpos": "938.305 750 11677.5",
+            "target": "938.305 2.01244 11677.5",
+            "type": "heavy"
+        },
+        {
+            "name": "Bering-07",
+            "sirenpos": "3253.57 750 10458.9",
+            "target": "3253.57 0.78545 10458.9",
+            "type": "heavy"
+        },
+        {
+            "name": "Candy-03",
+            "sirenpos": "4343.95 750 6078.99",
+            "target": "4343.95 233.236 6078.99",
+            "type": "heavy"
+        },
+        {
+            "name": "Hill-03",
+            "sirenpos": "3273.89 750 6100.62",
+            "target": "3273.89 28.5472 6100.62",
+            "type": "heavy"
+        },
+        {
+            "name": "Oilrig-02",
+            "sirenpos": "9403.27 750 8005.66",
+            "target": "9403.27 2.50014 8005.66",
+            "type": "heavy"
+        },
+        {
+            "name": "Oilrig-04",
+            "sirenpos": "9972.7 750 8621.34",
+            "target": "9972.7 2.75859 8621.34",
+            "type": "heavy"
+        },
+        {
+            "name": "Oilrig-06",
+            "sirenpos": "11076.8 750 8601.62",
+            "target": "11076.8 2.50014 8601.62",
+            "type": "heavy"
+        },
+        {
+            "name": "Oilrig-08",
+            "sirenpos": "12037.4 750 8468.58",
+            "target": "12037.4 2.50014 8468.58",
+            "type": "heavy"
+        },
+        {
+            "name": "Oilrig-10",
+            "sirenpos": "11709.3 750 7801.7",
+            "target": "11709.3 3.03415 7801.7",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-05",
+            "sirenpos": "6736.72 750 7585.88",
+            "target": "6736.72 60.616 7585.88",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-09",
+            "sirenpos": "7947.69 750 6985.69",
+            "target": "7947.69 24.8415 6985.69",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-13",
+            "sirenpos": "8204.28 750 6151.98",
+            "target": "8204.28 6.50579 6151.98",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-17",
+            "sirenpos": "6761.49 750 5742.33",
+            "target": "6761.49 9.9553 5742.33",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-21",
+            "sirenpos": "7548.62 750 8633.84",
+            "target": "7548.62 77.8949 8633.84",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-Camp-South-01",
+            "sirenpos": "7715.51 750 5808.34",
+            "target": "7715.51 13.0843 5808.34",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-Camp-South-02",
+            "sirenpos": "7686.21 750 5777.37",
+            "target": "7686.21 15.259 5777.37",
+            "type": "heavy"
+        },
+        {
+            "name": "Tara-Camp-South-03",
+            "sirenpos": "7665.01 750 5724.26",
+            "target": "7665.01 6.21955 5724.26",
+            "type": "heavy"
+        }
+    ],
+    "SubTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "0 -1 800",
+                "3092 -1 985",
+                "3676 -1 1677",
+                "6491 -1 1599",
+                "10310 -1 1319",
+                "15500 -1 2500"
+            ]
+        },
+        {
+            "name": "2",
+            "pos": [
+                "3092 -1 985"
+            ]
+        }
+    ],
+    "BoatTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "15323 -1 13495",
+                "13981 -1 8879",
+                "15272 -1 153"
+            ]
+        }
+    ],
+    "PlaneTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "6243.94 21.6767 9600.93",
+                "6246.28 22.1125825683 9524.35",
+                "6245.50 22.5496858398 9450.89",
+                "6247.85 22.5499299804 9379.78",
+                "6249.41 22.8360017577 9308.66",
+                "6249.41 28.8464998046 9236.77",
+                "6251.75 47.6440767089 9171.12",
+                "6251.75 90.277896289 9097.67",
+                "6247.77 196.113498096 8975.16",
+                "6259.49 170.223117237 8668.04",
+                "6300.91 194.348361378 8347.64",
+                "6339.21 252.35110796 6339.21",
+                "6362.65 117.253146534 7094.95",
+                "6290.75 142.35110796 6229.86",
+                "6247.77 142.35110796 5402.28",
+                "6197.84 142.35110796 4567.32"
+            ]
+        }
+    ]
+}

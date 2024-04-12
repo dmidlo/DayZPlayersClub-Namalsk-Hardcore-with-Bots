@@ -1,0 +1,117 @@
+{
+    "OnTheFly": 1,
+    "OnTheFly_UnFlip": 0,
+    "Log": 0,
+    "VehicleConfig": [
+        {
+            "Name": "CivilianSedan",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "CivilianSedan_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "CivilianSedan_Wine",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "Hatchback_02",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "Hatchback_02_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "Hatchback_02_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "OffroadHatchback",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "OffroadHatchback_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "OffroadHatchback_White",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "Sedan_02",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Sedan_02_Grey",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Sedan_02_Red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Truck_01_Covered",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.9600000381469728
+        },
+        {
+            "Name": "Truck_01_Covered_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.9600000381469728
+        },
+        {
+            "Name": "Truck_01_Covered_Orange",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.9600000381469728
+        },
+        {
+            "Name": "RFFSHeli_LittleBird",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Mi2_Military",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Raft",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "SavageSherpa_Savage",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Blackhawk_Cargo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Ka26",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_UH1H",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        }
+    ]
+}
