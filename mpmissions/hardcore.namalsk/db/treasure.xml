@@ -3,7 +3,7 @@
     <type name="HiddenStash">
         <nominal>0</nominal>
         <lifetime>1209600</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -14,7 +14,7 @@
     <type name="HauntedStash">
         <nominal>0</nominal>
         <lifetime>1209600</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -25,7 +25,7 @@
     <type name="RadioBeaconStash">
         <nominal>0</nominal>
         <lifetime>1209600</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -79,9 +79,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="TRCustomPhoto12">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -100,9 +100,9 @@
         <value user="Tier1"/>
     </type>
     <type name="TRCustomPhoto13">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -121,9 +121,9 @@
         <value user="Tier1"/>
     </type>
     <type name="TRCustomPhoto14">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -142,9 +142,9 @@
         <value user="Tier1"/>
     </type>
     <type name="TRCustomPhoto15">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -163,9 +163,9 @@
         <value user="Tier1"/>
     </type>
     <type name="TRCustomPhoto16">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -184,9 +184,9 @@
         <value user="Tier1"/>
     </type>
     <type name="TRCustomPhoto17">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -205,9 +205,9 @@
         <value user="Tier1"/>
     </type>
     <type name="TRCustomPhoto18">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -226,9 +226,9 @@
         <value user="Tier1"/>
     </type>
     <type name="TRCustomPhoto19">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
