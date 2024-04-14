@@ -3206,8 +3206,8 @@
     <type name="StandAloneSmelter">
 		<damage min="0.01" max="0.27" />
 		<attachments chance="1.00">
-			<item name="LargeGasCanister" chance="0.50" />
-            <item name="MediumGasCanister" chance="0.50" />
+			<item name="LargeGasCanister" chance="0.05" />
+            <item name="MediumGasCanister" chance="0.05" />
 		</attachments>
 	</type>
     <type name="QDLY_ElectricOven">
