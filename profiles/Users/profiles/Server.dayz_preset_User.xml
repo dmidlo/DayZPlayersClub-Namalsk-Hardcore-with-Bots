@@ -1040,8 +1040,8 @@
         <btn name="kO" />
     </input>
     <input name="UAImmersivePlacing" />
-    <input name="JD_ToggleAutoRun">
-        <btn name="kAdd" />
+    <input name="UAImmersivePlacing">
+        <btn name="kComma" />
     </input>
     <input name="OMD_SwitchHeadlightsMode">
         <btn name="kK" />
@@ -1102,25 +1102,6 @@
     </input>
     <input name="UARaftRudderCenter">
         <btn name="kNumpad5" />
-    </input>
-    <input name="UAZenSleep_SleepKey" />
-    <input name="UAZenSleep_RefreshConfig">
-        <btn name="kNumpad3" />
-    </input>
-    <input name="UADayzDogWhistle">
-        <btn name="kAdd" />
-    </input>
-    <input name="UADayzDogFollow">
-        <btn name="kDivide" />
-    </input>
-    <input name="UADayzDogPatrol">
-        <btn name="kMultiply" />
-    </input>
-    <input name="UADayzDogStayHere">
-        <btn name="kSubstract" />
-    </input>
-    <input name="UADayzDogEmoteToggle">
-        <btn name="kNumpad9" />
     </input>
     <input name="UARFFSCyclicForward">
         <btn name="kW" />
@@ -1192,11 +1173,33 @@
     <input name="UARFWCAnchor">
         <btn name="kZ" />
     </input>
+    <input name="UAZenSleep_SleepKey" />
+    <input name="UAZenSleep_RefreshConfig">
+        <btn name="kNumpad3" />
+    </input>
+    <input name="UADayzDogPatrol">
+        <btn name="kP" />
+    </input>
+    <input name="UADayzDogFollow">
+        <btn name="kLBracket" />
+    </input>
+    <input name="UADayzDogStayHere">
+        <btn name="kRBracket" />
+    </input>
+    <input name="UADayzDogWhistle">
+        <btn name="kBackslash" />
+    </input>
+    <input name="UADayzDogEmoteToggle">
+        <btn name="kNumpad9" />
+    </input>
     <input name="UADiveDown">
         <btn name="kNumpad8" />
     </input>
     <input name="UADiveUp">
         <btn name="kNumpad2" />
+    </input>
+    <input name="UAToggleVisor">
+        <btn name="kL" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
