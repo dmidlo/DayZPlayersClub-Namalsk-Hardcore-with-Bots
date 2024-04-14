@@ -94,11 +94,6 @@
             "Clearance": 2.0
         },
         {
-            "Name": "SavageSherpa_Savage",
-            "VerticalAdjustment": 0.0,
-            "Clearance": 2.0
-        },
-        {
             "Name": "RFFSHeli_Blackhawk_Cargo",
             "VerticalAdjustment": 0.0,
             "Clearance": 2.0
@@ -110,6 +105,41 @@
         },
         {
             "Name": "RFFSHeli_UH1H",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_R22_Red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_UH1H_Combat",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFWC_CarpBoat_Rusty",
+            "VerticalAdjustment": 0.41469547152519228,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFWC_Whaler",
+            "VerticalAdjustment": 0.2945203483104706,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Mi2",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Techs_ATV_OD",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Techs_ATV_White",
             "VerticalAdjustment": 0.0,
             "Clearance": 2.0
         }
