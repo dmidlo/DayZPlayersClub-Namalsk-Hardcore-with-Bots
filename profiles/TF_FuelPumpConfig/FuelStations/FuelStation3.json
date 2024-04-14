@@ -1,0 +1,12 @@
+{
+    "Name": "Lubjansk",
+    "Index": 3,
+    "Position": [
+        4462.0,
+        0.0,
+        11215.0
+    ],
+    "CurrentFuelAmount": 5000.0,
+    "CurrentDieselFuelAmount": 0.0,
+    "CurrentAviationFuelAmount": 5000.0
+}

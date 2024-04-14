@@ -1,0 +1,12 @@
+{
+    "Name": "Vorkuta",
+    "Index": 7,
+    "Position": [
+        7571.0,
+        0.0,
+        11328.0
+    ],
+    "CurrentFuelAmount": 5000.0,
+    "CurrentDieselFuelAmount": 0.0,
+    "CurrentAviationFuelAmount": 5000.0
+}

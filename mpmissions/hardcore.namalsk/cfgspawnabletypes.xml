@@ -3275,6 +3275,9 @@
             <item name="RFFSHeli_PilotVest" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
@@ -3352,6 +3355,9 @@
             <item name="RFFSHeli_PilotVest" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
@@ -3419,6 +3425,9 @@
         </cargo>
         <cargo chance="1.00">
             <item name="RFFSHeli_PilotVest" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />
@@ -3504,6 +3513,9 @@
             <item name="RFFSHeli_PilotVest" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
@@ -3579,6 +3591,9 @@
             <item name="RFFSHeli_PilotVest" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
@@ -3642,6 +3657,9 @@
             <item name="RFFSHeli_PilotVest" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
@@ -3703,6 +3721,9 @@
         </cargo>
         <cargo chance="1.00">
             <item name="RFFSHeli_PilotVest" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />
@@ -3777,6 +3798,9 @@
             <item name="RFFSHeli_PilotVest" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
@@ -3849,6 +3873,9 @@
             <item name="RFFSHeli_PilotVest" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
@@ -3916,6 +3943,9 @@
         </cargo>
         <cargo chance="1.00">
             <item name="RFFSHeli_PilotVest" chance="0.05" />
+        </cargo>
+        <cargo chance="1.00">
+            <item name="ADM_TactiParaBag_Camo_Speed" chance="0.05" />
         </cargo>
         <cargo chance="1.00">
             <item name="RFFSHeli_hydraulic_fluid" chance="0.05" />

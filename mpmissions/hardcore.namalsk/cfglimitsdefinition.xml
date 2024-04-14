@@ -14,6 +14,7 @@
         <category name="lantia" />
         <category name="smelting_c" />
         <category name="smelting_s" />
+        <category name="airfield" />
     </categories>
     <tags>
         <tag name="military" />

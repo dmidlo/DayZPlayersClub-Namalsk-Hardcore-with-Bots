@@ -1,0 +1,41 @@
+{
+    "ConfigVersion": "1.01",
+    "Allow_Getting_AviationFuel_From_Fuel_Pumps": 0,
+    "TF_FuelPump_AviationFuel_Settings": "----------Below this is only relevant if you have TF-FuelPump Installed------------",
+    "AviationFuel_MaxAmount": 10000.0,
+    "AviationFuel_InitAmount": 5000.0,
+    "AviationFuel_EnergyConsumptionCoef": 1.0,
+    "AviationFuel_AdminRefuelAmount": 2000.0,
+    "AviationFuelTankSpawnerDescription": "----------Below this is used to spawn fuel tanks with quantity------------",
+    "EnableSpawningFuelTanks": 0,
+    "AviationFuelTankSpawnerList": [
+        {
+            "FuelTankClassname": "Wilmas_AviationFuelTank",
+            "Position": [
+                4702.1201171875,
+                339.0,
+                10357.099609375
+            ],
+            "Orientation": [
+                149.0,
+                0.0,
+                0.0
+            ],
+            "FuelQuantityInLitres_5000Max": 5000
+        },
+        {
+            "FuelTankClassname": "Wilmas_AviationFuelTank",
+            "Position": [
+                11967.900390625,
+                140.0,
+                12514.400390625
+            ],
+            "Orientation": [
+                21.0,
+                0.0,
+                0.0
+            ],
+            "FuelQuantityInLitres_5000Max": 5000
+        }
+    ]
+}

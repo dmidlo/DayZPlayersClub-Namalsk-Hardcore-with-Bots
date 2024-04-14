@@ -1,0 +1,12 @@
+{
+    "Name": "Seraja",
+    "Index": 4,
+    "Position": [
+        4208.0,
+        0.0,
+        6593.0
+    ],
+    "CurrentFuelAmount": 5000.0,
+    "CurrentDieselFuelAmount": 0.0,
+    "CurrentAviationFuelAmount": 5000.0
+}

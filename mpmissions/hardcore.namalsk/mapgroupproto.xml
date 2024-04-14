@@ -4651,7 +4651,9 @@
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="bags" />
+						<category name="airfield" />
 						<tag name="civilian" />
+						<tag name="industrial" />
 						<point pos="-0.749450 -9.386709 -9.340271" range="0.100000" height="0.250000" />
 						<point pos="-4.300720 -9.386709 -9.445923" range="0.100000" height="0.250000" />
 						<point pos="-7.543760 -9.386709 -9.693116" range="0.100000" height="0.250000" />
@@ -4772,6 +4774,7 @@
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="bags" />
+						<category name="airfield" />
 						<tag name="civilian" />
 						<tag name="industrial" />
 						<point pos="-12.429137 -2.956661 14.962585" range="0.134375" height="0.220239" />
@@ -10995,6 +10998,7 @@
 				<category name="tools" />
 				<category name="containers" />
 				<category name="clothes" />
+				<category name="airfield" />
 				<point pos="-2.717287 -0.891541 3.522704" range="1.199951" height="2.000000" />
 				<point pos="4.843262 -0.891541 5.724365" range="1.199951" height="2.000000" />
 				<point pos="0.576906 -0.891541 8.739014" range="0.523682" height="1.309204" />
