@@ -1040,9 +1040,6 @@
         <btn name="kO" />
     </input>
     <input name="UAImmersivePlacing" />
-    <input name="UAImmersivePlacing">
-        <btn name="kComma" />
-    </input>
     <input name="OMD_SwitchHeadlightsMode">
         <btn name="kK" />
     </input>
@@ -1197,9 +1194,6 @@
     </input>
     <input name="UADiveUp">
         <btn name="kNumpad2" />
-    </input>
-    <input name="UAToggleVisor">
-        <btn name="kL" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
