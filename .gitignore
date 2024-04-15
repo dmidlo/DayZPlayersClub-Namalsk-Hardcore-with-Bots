@@ -29,3 +29,4 @@ profiles/PermissionsFramework/Permissions/
 profiles/PermissionsFramework/Players/
 profiles/Heatmap/*Heatmap.json
 profiles/ExpansionMod/AI/Spatial/SpatialPlayerSettings.json
+*.mdmp
