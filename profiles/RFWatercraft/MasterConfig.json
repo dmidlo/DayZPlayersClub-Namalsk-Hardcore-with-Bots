@@ -5,6 +5,6 @@
     "HUD_Allow1PP": 1,
     "HUD_Allow3PP": 1,
     "Control_Grounded": 0,
-    "Sound_EngineVolume": 100.0,
+    "Sound_EngineVolume": 90.0,
     "Damage_AllowWeaponDamage": 1
 }
