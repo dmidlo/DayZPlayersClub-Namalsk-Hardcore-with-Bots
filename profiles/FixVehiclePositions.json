@@ -142,6 +142,11 @@
             "Name": "Techs_ATV_White",
             "VerticalAdjustment": 0.0,
             "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_R22",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
         }
     ]
 }
