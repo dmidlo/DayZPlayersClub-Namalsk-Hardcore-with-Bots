@@ -1,8 +1,8 @@
-class CraftHook extends RecipeBase
+class DayZPlayersClubCraftMetalHooks extends RecipeBase
 {	
 	override void Init()
 	{
-		m_Name = "Craft Fishing Hooks";  //Action Display Name
+		m_Name = "Craft Fishing Hooks";
 		m_IsInstaRecipe = false;				
 		m_AnimationLength = 1.4;					
 		m_Specialty = 0;						
