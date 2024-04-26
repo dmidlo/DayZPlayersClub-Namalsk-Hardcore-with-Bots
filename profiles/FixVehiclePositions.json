@@ -147,6 +147,21 @@
             "Name": "RFFSHeli_R22",
             "VerticalAdjustment": 0.0,
             "Clearance": 2.0
+        },
+        {
+            "Name": "Kamaz",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "LAMV_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Glowler_ITV",
+            "VerticalAdjustment": 1.3173565864562989,
+            "Clearance": 2.0
         }
     ]
 }
