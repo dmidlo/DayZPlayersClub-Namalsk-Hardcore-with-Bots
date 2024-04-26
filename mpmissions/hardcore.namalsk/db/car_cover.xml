@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
     <type name="CamoNetWinter">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13,7 +13,7 @@
         <usage name="Military"/>
     </type>
 	<type name="CamoNetCivil">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -26,7 +26,7 @@
 		<usage name="Farm"/>
     </type>
 	<type name="CamoNetDesert">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
