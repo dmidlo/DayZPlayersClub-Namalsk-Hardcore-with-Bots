@@ -3,8 +3,8 @@
     "EnableDebug": 0,
     "LootRandomization": -1.0,
     "EnableDynamicLocations": 1,
-    "RadioFreq": 99.69999694824219,
-    "RadioInterval": 45,
+    "RadioFreq": 94.5999984741211,
+    "RadioInterval": 10,
     "RadioRange": 30000,
     "TreasureLocations": [
         {
