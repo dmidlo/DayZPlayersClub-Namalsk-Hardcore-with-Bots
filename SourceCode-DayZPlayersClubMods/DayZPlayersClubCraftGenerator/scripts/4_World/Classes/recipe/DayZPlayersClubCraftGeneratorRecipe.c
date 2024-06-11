@@ -41,7 +41,7 @@ class DayZPlayersClubCraftGeneratorRecipe extends RecipeBase
 		m_ResultInheritsColor[0] = -1;
 		m_ResultToInventory[0] = -2;
 		m_ResultUseSoftSkills[0] = false;
-		m_ResultReplacesIngredient[0] = -1;
+		m_ResultReplacesIngredient[0] = 1;
 	}
 	override bool CanDo(ItemBase ingredients[], PlayerBase player)
 	{

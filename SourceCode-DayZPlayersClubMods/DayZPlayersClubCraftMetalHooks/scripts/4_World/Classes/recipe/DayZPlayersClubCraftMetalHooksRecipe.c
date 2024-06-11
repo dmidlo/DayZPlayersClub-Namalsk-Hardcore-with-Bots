@@ -1,4 +1,4 @@
-class DayZPlayersClubCraftMetalHooks extends RecipeBase
+class DayZPlayersClubCraftMetalHooksRecipe extends RecipeBase
 {	
 	override void Init()
 	{

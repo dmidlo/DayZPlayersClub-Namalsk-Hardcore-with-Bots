@@ -5,6 +5,6 @@ modded class PluginRecipesManager
         super.RegisterRecipies();
         
         //Crafting Recipe
-		RegisterRecipe(new DayZPlayersClubCraftMetalHooks );
+		RegisterRecipe(new DayZPlayersClubCraftMetalHooksRecipe );
     }
 }
