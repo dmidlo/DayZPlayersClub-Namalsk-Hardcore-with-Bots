@@ -1,7 +1,7 @@
 {
     "m_Version": 10,
     "AccuracyMin": 0.3499999940395355,
-    "AccuracyMax": 0.949999988079071,
+    "AccuracyMax": 0.69999988079071,
     "ThreatDistanceLimit": 1000.0,
     "NoiseInvestigationDistanceLimit": 500.0,
     "DamageMultiplier": 1.0,
@@ -10,7 +10,7 @@
         "76561198845640122",
         "76561198078031311"
     ],
-    "MaximumDynamicPatrols": -1,
+    "MaximumDynamicPatrols": 5,
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 0.0,
     "Manners": 0,
