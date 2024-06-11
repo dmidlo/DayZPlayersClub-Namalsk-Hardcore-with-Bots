@@ -162,6 +162,16 @@
             "Name": "Glowler_ITV",
             "VerticalAdjustment": 1.3173565864562989,
             "Clearance": 2.0
+        },
+        {
+            "Name": "CrSk_Land_Rover_Defender_110_UN",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Motoblok_NT_Green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
         }
     ]
 }
