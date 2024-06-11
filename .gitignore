@@ -30,4 +30,6 @@ profiles/PermissionsFramework/Players/
 profiles/Heatmap/*Heatmap.json
 profiles/ExpansionMod/AI/Spatial/SpatialPlayerSettings.json
 *.mdmp
-/mpmissions/hardcore.namalsk/storage_*
+/mpmissions/hardcore.namalsk/storage_*profiles/DataCache/
+profiles/DataCache/
+mpmissions/hardcore.namalsk/storage_*/
